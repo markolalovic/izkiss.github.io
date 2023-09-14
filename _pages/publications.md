@@ -128,7 +128,7 @@ Discrete and Continuous Dynamical Systems - Series B.,
 <ol reversed start="70">
 <li> P. Tee, I. Wakeman, G. Parisis, J. Dawes & I. Z. Kiss (2017) Constraints and Entropy in a Model of Network Evolution, 
 Eur. Phys. J. B 90: 226.
-<a href='https://link.springer.com/content/pdf/10.1140%2Fepjb%2Fe2017-80185-5.pdf'> [html] </a>
+<a href='https://link.springer.com/content/pdf/10.1140%2Fepjb%2Fe2017-80185-5.pdf'> [html] </a></li>
 <hr>
 <li> P. Overbury, I.Z. Kiss & L. Berthouze(2017) A genetic algorithm-based approach to mapping the diversity of networks sharing a given 
 degree distribution and global clustering. In: Cherifi H., Gaito S., Quattrociocchi W., Sala A. (eds) Complex Networks & 
