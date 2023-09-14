@@ -15,42 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<!doctype html>    
-<html  xml:lang="en-gb" lang="en-gb"  xmlns:fb="http://ogp.me/ns/fb#">
-	<head>
-		<meta property='og:title' content='Istvan Zoltan Kiss'>
-		<meta property='og:image' content='img/IZKissPicture.jpg'>
-		<meta property='og:site_name' content='Istvan Zoltan Kiss'>
-		<meta property='og:description' content='Dr Istvan Kiss, School of Mathematical and Physical Sciences, Department of Mathematics, University of Sussex, Brighton'>
-		
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<meta http-equiv="Pragma" content="no-cache">
-		<meta http-equiv="Expires" content="-1">
-		<title>Homepage of Istvan Zoltan Kiss</title>
-		<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Roboto:700' rel='stylesheet' type='text/css'>
-		<link href="main.css" rel="stylesheet" type="text/css">
-	</head>
-	<body>
-		<div id="wrapper">
-			<header>
-				<img src="img/mathslogo.png" />
-				<div id="headerleft">
-					<div id="name">Istvan Zoltan Kiss</div>
-					<menu>
-						<a href="index.html">Home</a>
-						<a href="research.html">Research</a>
-						<a href="publications.html">Publications</a>
-						<a href="teaching.html">Teaching</a>
-						<a href="people.html">People</a>
-					</menu>
-				</div>
-			</header>
-			<main>
-				<div id="content">
-				<!-- Start of Content -->
 
 <center>
 <H2>Dr Istvan Z. Kiss's publications</h2>
@@ -236,14 +201,3 @@ DOI: 10.1098/rspb.2006.3505. <a href="ProcRoySocBKaoDanonGreenKiss2006.pdf"> [pd
 <ol>
 <li>  I.Z. Kiss, M. Broom & I. Rafols (2009) Can epidemic models describe the diffusion of research topics across disciplines? In Larsen, B. and Leta, J. (Eds.) Proceedings of the 12th International Conference of the International Society for Scientometrics and Informetrics, Vol. 2, pp 857-86. Rio de Janeiro. </li>
 </ol>
-<P>Page last updated June 2014
-			
-				<!-- End of Content -->
-				</div>
-			</main>
-			<footer>
-				Copyright &copy; 2014 Istvan Zoltan Kiss
-			</footer>
-		</div>
-	</body>
-</html>
