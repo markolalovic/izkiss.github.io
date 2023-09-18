@@ -180,6 +180,7 @@ Journal of Complex Networks, 4, 187-200. <a href='https://journals.aps.org/prl/a
 <li> I.Z. Kiss & P. Rattana (2015) Comment on "A BINOMIAL MOMENT APPROXIMATION SCHEME FOR EPIDEMIC SPREADING IN NETWORKS". U.P.B. Sci.
 Bull., Series A, 77, 73-84.
 Bull. <a href="comment_on_Yilun_with_App_Latest.pdf"> [pdf] <br> <br> </a>
+</li>
 <hr>
 <li> F. Selley, A. Besenyei, I.Z. Kiss & P.L. Simon (2015)  Dynamic control of modern, network-based epidemic models. SIAM: J. Appl. Dyn. Syst. 14, 168-187.
     <a href='http://arxiv.org/abs/1402.2194'> [arxiv] </a> 
