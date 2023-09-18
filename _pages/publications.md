@@ -27,9 +27,9 @@ epidemics: from exact to approximate models. In the Interdisciplinary Applied Ma
  <!-- <a style="color:red;">Mathematics of network
 epidemics: from exact to approximate models. Interdisciplinary and Applied Mathematics series, Springer. </a> -->
 </li>
-</ol>
 </div>
 </blockquote>
+</ol>
 <hr>
 
 <H2> To appear, submitted or in preparation</h2>
