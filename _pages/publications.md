@@ -169,7 +169,8 @@ Journal of Complex Networks, 4, 187-200. <a href='https://journals.aps.org/prl/a
 </li>
 <hr>
 <li> I.Z. Kiss, G. R&oumlst & Zs. Vizi (2015) Generalization of Pairwise Models to non-Markovian Epidemics on Networks. Phys. Rev. Lett. 115, 078701.
-        <a href='http://arxiv.org/abs/1504.04639'> [arxiv] <a href='https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.078701'> [Phys Rev Lett]</a>
+        <a href='http://arxiv.org/abs/1504.04639'> [arxiv] </a> 
+        <a href='https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.078701'> [Phys Rev Lett]</a>
 </li>
 <hr>
 <li> N. Sherborne, K.B. Blyuss & I.Z. Kiss (2015) Dynamics of multi-stage infections on networks. Bull. Math. Biol. 77, 1909-1933.
