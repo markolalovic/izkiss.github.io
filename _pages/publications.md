@@ -272,6 +272,7 @@ closure approximations. J. Math. Biol. 64, 1021-1042. DOI 10.1007/s00285-011-044
 <ol reversed start="37">
 <li> J. E. Dent, I.Z. Kiss, R.R. Kao, L. Snow & M. Arnold (2011) The spread of highly pathogenic avian influenza virus via dynamic contacts between poultry premises in Great Britain.
 BMC Veterinary Research 7:59, DOI:10.1186/1746-6148-7-59.
+</li>
 <hr>
 <li> V. Hatzopoulos, M. Taylor, P.L. Simon & I.Z. Kiss (2011) Multiple sources and routes of information transmission: implications for epidemic
 dynamics. Math. Biosci. 231, 197-209. <a href="InfoTransVasi.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
