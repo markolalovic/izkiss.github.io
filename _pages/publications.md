@@ -179,7 +179,7 @@ Journal of Complex Networks, 4, 187-200. <a href='https://journals.aps.org/prl/a
 <hr>
 <li> I.Z. Kiss & P. Rattana (2015) Comment on "A BINOMIAL MOMENT APPROXIMATION SCHEME FOR EPIDEMIC SPREADING IN NETWORKS". U.P.B. Sci.
 Bull., Series A, 77, 73-84.
-Bull. <a href="comment_on_Yilun_with_App_Latest.pdf"> [pdf] <br> <br> </a>
+Bull. <a href="files/comment_on_Yilun_with_App_Latest.pdf"> [pdf] <br> <br> </a>
 </li>
 <hr>
 <li> F. Selley, A. Besenyei, I.Z. Kiss & P.L. Simon (2015)  Dynamic control of modern, network-based epidemic models. SIAM: J. Appl. Dyn. Syst. 14, 168-187.
@@ -208,7 +208,7 @@ J. Math. Biol. 70, 437-464.
 </li>
 <hr>
 <li> J.C. Miller & I.Z. Kiss (2014) Epidemic spread in networks: existing methods and current challenges. Model. Nat. Phenom. 9, 4-42.
-<a href="Miller_Kiss_resub2.pdf"> [pdf] <br> <br> </a>
+<a href="files/Miller_Kiss_resub2.pdf"> [pdf] <br> <br> </a>
 </li>
 <hr>
 <li> N. Nagy, I.Z. Kiss & P.L. Simon (2014) Approximate master equations for dynamical processes on graphs. Math. Model. Nat. Phenom. 9, 43-57.
