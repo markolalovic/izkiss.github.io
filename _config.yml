@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Istvan Kiss's personal webpage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "IMG_2595.png"
+  name             : "Istvan Kiss"
+  avatar           : "IMG_2595.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
