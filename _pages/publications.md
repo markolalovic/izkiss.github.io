@@ -114,6 +114,7 @@ Edelman, N. L., Simon, P., Cassell, J. A., & Kiss, I. Z. (2022). Network analysi
 </ol>
 <hr>
 
+
 <H3> 2021</h3>
 <ol reversed start="80">
 <li>
@@ -130,6 +131,7 @@ Di Lauro, F., Berthouze, L., Dorey, M. D., Miller, J. C., & Kiss, I. Z. (2021). 
 </ol>
 <hr>
 
+
 <H3> 2020</h3>
 <ol reversed start="80">
 <li>
@@ -142,8 +144,8 @@ Thompson, R. N., Hollingsworth, T. D., Isham, V., Arribas-Bel, D., Ashby, B., Br
 <hr>
 <li>
 Di Lauro, F., Croix, J. C., Berthouze, L., & Kiss, I. Z. (2020). PDE limits of stochastic SIS epidemics on networks. Journal of Complex Networks, 8(4), cnaa043. <a href='https://academic.oup.com/comnet/article/8/4/cnaa043/6056227?login=false'> [html] </a>
-<li>
-</hr>
+</li>
+<hr>
 <li>
 Georgiou, N., Kiss, I. Z., & Simon, P. L. (2020). Theoretical and numerical considerations of the assumptions behind triple closures in epidemic models on networks. Trends in Biomathematics: Modeling Cells, Flows, Epidemics, and the Environment: Selected Works from the BIOMAT Consortium Lectures, Szeged, Hungary, 2019 19, 209-234. <a href='https://link.springer.com/chapter/10.1007/978-3-030-46306-9_14'> [html] </a>
 </li>
