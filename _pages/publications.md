@@ -244,7 +244,7 @@ Journal of Complex Networks, 4, 187-200. <a href='https://journals.aps.org/prl/a
 <hr>
 <li> I.Z. Kiss & P. Rattana (2015) Comment on "A BINOMIAL MOMENT APPROXIMATION SCHEME FOR EPIDEMIC SPREADING IN NETWORKS". U.P.B. Sci.
 Bull., Series A, 77, 73-84.
-Bull. <a href="files/comment_on_Yilun_with_App_Latest.pdf"> [pdf] <br> <br> </a>
+Bull. <a href="files/comment_on_Yilun_with_App_Latest.pdf"> [pdf] </a>
 </li>
 <hr>
 <li> F. Selley, A. Besenyei, I.Z. Kiss & P.L. Simon (2015)  Dynamic control of modern, network-based epidemic models. SIAM: J. Appl. Dyn. Syst. 14, 168-187.
@@ -274,16 +274,16 @@ J. Math. Biol. 70, 437-464.
 </li>
 <hr>
 <li> J.C. Miller & I.Z. Kiss (2014) Epidemic spread in networks: existing methods and current challenges. Model. Nat. Phenom. 9, 4-42.
-<a href="files/Miller_Kiss_resub2.pdf"> [pdf] <br> <br> </a>
+<a href="files/Miller_Kiss_resub2.pdf"> [pdf] </a>
 </li>
 <hr>
 <li> N. Nagy, I.Z. Kiss & P.L. Simon (2014) Approximate master equations for dynamical processes on graphs. Math. Model. Nat. Phenom. 9, 43-57.
-    <a href="MMNP_NagyKissSimon.pdf"> [pdf] <br> <br> </a>
+    <a href="MMNP_NagyKissSimon.pdf"> [pdf]  </a>
     <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> -->
 </li>
 <hr>
 <li> P. Rattana, J.C. Miller & I.Z. Kiss (2014) Pairwise and edge-based models of epidemic dynamics on correlated weighted networks. Math. Model. Nat. Phenom. 9, 58-81.
-    <a href="Kiss_Rattan_Miller_final.pdf"> [pdf] <br> <br> </a>
+    <a href="Kiss_Rattan_Miller_final.pdf"> [pdf] </a>
     <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> -->
 </li>
 <hr>
@@ -316,17 +316,17 @@ J. Math. Biol. 70, 437-464.
 <H3> 2012</h3>
 <ol reversed start="49">
 <li> I.Z. Kiss & P.L. Simon (2012) New moment closures based on a priori distributions with applications to epidemic dynamics. Bull. Math. Biol. 74, 1501-1515. 
-    <a href="Kiss_Simon_Binomial_Closure_BullMathBiol.pdf"> [pdf] <br> <br> 
+    <a href="Kiss_Simon_Binomial_Closure_BullMathBiol.pdf"> [pdf] 
     </a><!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> -->
 </li>
 <hr>
-<li> C. Hadjichrysanthou, M. Broom & I.Z. Kiss (2012) Approximating evolutionary dynamics on networks using a neighbourhood configuration model.  J. Theor. Biol. 312, 13-21. <a href="HadjiBroomKissEffJTB.pdf"> [pdf] <br> <br> </a><!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
+<li> C. Hadjichrysanthou, M. Broom & I.Z. Kiss (2012) Approximating evolutionary dynamics on networks using a neighbourhood configuration model.  J. Theor. Biol. 312, 13-21. <a href="HadjiBroomKissEffJTB.pdf"> [pdf] </a><!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
 <hr>
-<li> A. Batkai, I.Z. Kiss, E. Sikolya & P.L. Simon (2012) Differential equations approximations of stochastic network processes: an operator semigroup approach. Networks and Heterogeneous Media 7, 43-58. <a href="Batkai_Kiss_Sikolya_Simon.pdf"> [pdf] <br> <br> </a><!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
+<li> A. Batkai, I.Z. Kiss, E. Sikolya & P.L. Simon (2012) Differential equations approximations of stochastic network processes: an operator semigroup approach. Networks and Heterogeneous Media 7, 43-58. <a href="Batkai_Kiss_Sikolya_Simon.pdf"> [pdf] </a><!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
 <hr>
-<li> M. Taylor, T.J. Taylor & I.Z. Kiss (2012) Epidemic threshold and control in a dynamic network. Phy. Rev. E. 85, 016103. <a href="Networks_Interface_MTaylor_July11[1].pdf"> [pdf] <br> <br> </a><!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
+<li> M. Taylor, T.J. Taylor & I.Z. Kiss (2012) Epidemic threshold and control in a dynamic network. Phy. Rev. E. 85, 016103. <a href="Networks_Interface_MTaylor_July11[1].pdf"> [pdf] </a><!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
 <hr>
-<li> A. Szabo, P.L. Simon & I.Z. Kiss (2012) Detailed study of bifurcations in an epidemic model on a dynamic network. Differ. Equ. Appl. 4, 277-296. <a href="BifurcationsDynamicGraphVegso.pdf"> [pdf] <br> <br> </a><!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
+<li> A. Szabo, P.L. Simon & I.Z. Kiss (2012) Detailed study of bifurcations in an epidemic model on a dynamic network. Differ. Equ. Appl. 4, 277-296. <a href="BifurcationsDynamicGraphVegso.pdf"> [pdf]  </a><!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
 <hr>
 <li> I.Z. Kiss, L. Berthouze, T.J. Taylor & P.L. Simon (2012) Modelling approaches for simple dynamic networks and applications to disease transmission models. Proc. Roy. Soc. A. DOI: 10.1098/rspa.2011.0349. <a href="DynamicNetworkIZKissFinal.pdf"> [pdf] <br> <br> </a><!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
 <hr>
