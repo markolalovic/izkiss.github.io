@@ -20,7 +20,7 @@ author_profile: true
 <H2> <a style="color:red;"> Research Highlights </a></h2>
 <ol reversed start="104">
 <blockquote><div style="background-color:#DCDCDC; color:#000000; font-style: normal;">
-<li> <img src="images/book_icon_new.jpg" alt="Mountain View" style="width:30px;height:22px;"> Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on networks. Cham: Springer, 598, 31.
+<li> <img src="../images/book_icon_new.jpg" alt="Mountain View" style="width:30px;height:22px;"> Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on networks. Cham: Springer, 598, 31.
 <a href='http://www.springer.com/gb/book/9783319508047'> Springer</a>, 
 <a href='http://scholar.harvard.edu/files/joelmiller/files/Tab_of_cont_Index_Refs.pdf'> Tab_Cont_Index_Ref</a>
 </li>
@@ -319,10 +319,10 @@ J. Math. Biol. 70, 437-464. <a href='http://arxiv.org/abs/1307.7737'> [arxiv] </
 <li> I.Z. Kiss, L. Berthouze, T.J. Taylor & P.L. Simon (2012) Modelling approaches for simple dynamic networks and applications to disease transmission models. Proc. Roy. Soc. A. DOI: 10.1098/rspa.2011.0349. <a href="files/DynamicNetworkIZKissFinal.pdf"> [pdf] </a> 
 </li>
 <hr>
-<li> D. Schley, S. Whittle, M. Taylor & I.Z. Kiss (2012) Models to capture the potential for disease transmission in domestic sheep flocks. Prev. Vet. Med. 106, 174-184. <a href="files/PVM_Schley_Flockmodels.pdf"> [pdf] </a>
+<li> D. Schley, S. Whittle, M. Taylor & I.Z. Kiss (2012) Models to capture the potential for disease transmission in domestic sheep flocks. Prev. Vet. Med. 106, 174-184. <a href="../files/PVM_Schley_Flockmodels.pdf"> [pdf] </a>
 </li>
 <hr>
-<li> P.L. Simon & I.Z. Kiss (2012) From exact stochastic to mean-field ODE models: a new approach to prove convergence results. IMA J. Appl. Math. 1-20, DOI:10.1093/imamat/hxs001. <a href="files/SimonKissConvResultsIMA.pdf"> [pdf] </a>  
+<li> P.L. Simon & I.Z. Kiss (2012) From exact stochastic to mean-field ODE models: a new approach to prove convergence results. IMA J. Appl. Math. 1-20, DOI:10.1093/imamat/hxs001. <a href="../files/SimonKissConvResultsIMA.pdf"> [pdf] </a>  
 </li>
 <hr>
 <li> M. Taylor, P. L. Simon, D.M. Green, T. House & I. Z. Kiss (2012) From Markovian to pairwise epidemic models and the performance of moment closure approximations. J. Math. Biol. 64, 1021-1042. DOI 10.1007/s00285-011-0443-3. 
@@ -499,7 +499,7 @@ In: Mondaini RP (ed.) BIOMAT 2015, Singapore: World Scientific, 40-53. <a href='
 </li>
 <hr>-->
 <li> G. Röst, Zs. Vizi & I.Z. Kiss (2016) Impact of non-Markovian recovery on network epidemics. 
-In: Mondaini RP (ed.) BIOMAT 2015, Singapore: World Scientific, 40-53. <a href='files/biomat2015GergoMathPart.pdf'> [pdf] </a>
+In: Mondaini RP (ed.) BIOMAT 2015, Singapore: World Scientific, 40-53. <a href='../files/biomat2015GergoMathPart.pdf'> [pdf] </a>
 </li>
 <hr>
 <li>  I.Z. Kiss, M. Broom & I. Rafols (2009) Can epidemic models describe the diffusion of research topics across disciplines? In Larsen, B. and Leta, J. (Eds.) Proceedings of the 12th International Conference of the International Society for Scientometrics and Informetrics, Vol. 2, pp 857-86. Rio de Janeiro. <a href='https://www.sciencedirect.com/science/article/abs/pii/S1751157709000716'> [html] </a>
