@@ -467,7 +467,7 @@ Numbers for Network Epidemics with Non-Markovian Recovery. ECMI 2016 Proceedings
 In: Mondaini RP (ed.) BIOMAT 2015, Singapore: World Scientific, 40-53. <a href='biomat2015GergoMathPart.pdf'> [pdf] </a>
 </li>
 <hr>-->
-<li> G. R&oumlst, Zs. Vizi & I.Z. Kiss (2016) Impact of non-Markovian recovery on network epidemics. 
+<li> G. Ro&#776st, Zs. Vizi & I.Z. Kiss (2016) Impact of non-Markovian recovery on network epidemics. 
 In: Mondaini RP (ed.) BIOMAT 2015, Singapore: World Scientific, 40-53. <a href='biomat2015GergoMathPart.pdf'> [pdf] </a>
 </li>
 <hr>
