@@ -163,25 +163,15 @@ J. Math. Biol. DOI:10.1007/s00285-019-01380-1
 <a href='https://link.springer.com/content/pdf/10.1007%2Fs00285-019-01380-1.pdf'> [html] </a>
 </li>
 <hr>
-<li> I.Z. Kiss, J.C. Miller & P.L. Simon,  (2019) Fast Variables Determine the Epidemic Threshold in the Pairwise Model with an Improved Closure. 
-In: Aiello L., Cherifi C., Cherifi H., Lambiotte R., Lió P., Rocha L. (eds) 
-Complex Networks and Their Applications VII. COMPLEX NETWORKS 2018. 
-Studies in Computational Intelligence, vol 812. Springer, Cham. <a href='https://link.springer.com/chapter/10.1007/978-3-030-05411-3_30'> [html] </a> 
-<a href='https://arxiv.org/abs/1809.04450'> [arxiv] </a>
-</li>
-<hr>
-<li> A. Bishop, I.Z. Kiss, T. House (2019) Consistent Approximation of Epidemic Dynamics on Degree-Heterogeneous 
-Clustered Networks. In: Aiello L., Cherifi C., Cherifi H., Lambiotte R., Lió P., Rocha L. (eds) 
-Complex Networks and Their Applications VII. COMPLEX NETWORKS 2018. Studies in Computational Intelligence, vol 812. 
-Springer, Cham. <a href='https://link.springer.com/chapter/10.1007/978-3-030-05411-3_31'> [html] </a> 
-<a href='https://arxiv.org/abs/1810.06066'> [arxiv] </a>
-</li>
-<hr>
-<li> Zs. Vizi, I.Z. Kiss, J.C. Miller & G. R&oumlst (2019) A monotonic relationship between the variability of the infectious period and final size in pairwise epidemic modelling.
+<li> Zs. Vizi, I.Z. Kiss, J.C. Miller & G. Röst (2019) A monotonic relationship between the variability of the infectious period and final size in pairwise epidemic modelling.
 Journal of Mathematics in Industry 2019, 9:1. <a href='https://mathematicsinindustry.springeropen.com/track/pdf/10.1186/s13362-019-0058-7'> [pdf] </a>
+</li>
+<li>
+Messager, A., Parisis, G., Kiss, I. Z., Harper, R., Tee, P., & Berthouze, L. (2019). Inferring functional connectivity from time-series of events in large scale network deployments. IEEE Transactions on Network and Service Management, 16(3), 857-870. <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8786122'> [pdf] </a>
 </li>
 </ol>
 <hr>
+
 <H3> 2018</h3>
 <ol reversed start="76">
 <li> R.C. Barnard, J.C. Miller, L. Berthouze & I.Z. Kiss (2018) Edge-based compartmental modelling of an SIR epidemic on a dual-layer static-dynamic multiplex network with tunable clustering.
@@ -253,7 +243,7 @@ Journal of Complex Networks, 4, 187-200. <a href='https://journals.aps.org/prl/a
 <li> Nicos Georgiu, I.Z. Kiss & Enrico Scalas (2015) Exactly-solvable non-Markovian dynamic network. Phys. Rev. E 92, 042801. <a href='http://arxiv.org/abs/1502.04072'> [arxiv] </a> 
 </li>
 <hr>
-<li> I.Z. Kiss, G. R&oumlst & Zs. Vizi (2015) Generalization of Pairwise Models to non-Markovian Epidemics on Networks. Phys. Rev. Lett. 115, 078701.
+<li> I.Z. Kiss, G. Röst & Zs. Vizi (2015) Generalization of Pairwise Models to non-Markovian Epidemics on Networks. Phys. Rev. Lett. 115, 078701.
         <a href='http://arxiv.org/abs/1504.04639'> [arxiv] </a> 
         <a href='https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.078701'> [Phys Rev Lett]</a>
 </li>
@@ -452,12 +442,30 @@ DOI: 10.1098/rspb.2006.3505. <a href="ProcRoySocBKaoDanonGreenKiss2006.pdf"> [pd
 <hr>
 <H3>Conference proceedings</h3>
 <ol reversed start="5">
+<li> A. Bishop, I.Z. Kiss, T. House (2019) Consistent Approximation of Epidemic Dynamics on Degree-Heterogeneous 
+Clustered Networks. In: Aiello L., Cherifi C., Cherifi H., Lambiotte R., Lió P., Rocha L. (eds) 
+Complex Networks and Their Applications VII. COMPLEX NETWORKS 2018. Studies in Computational Intelligence, vol 812. 
+Springer, Cham. <a href='https://link.springer.com/chapter/10.1007/978-3-030-05411-3_31'> [html] </a> 
+<a href='https://arxiv.org/abs/1810.06066'> [arxiv] </a>
+</li>
+<hr>
 <li>A. Messager, G. Parisis, I.Z. Kiss, R. Harper, P. Tee & L. Berthouze (2019) Functional topology inference from 
 network events. IFIP/IEEE International Symposium on Integrated Network Management. 
 Intelligent Management for the Next Wave of Cyber and Social Networks, Washington DC, 
 USA, 8-12 April 2019. Published in: 
 2019 IFIP/IEEE Symposium on Integrated Network and Service Management (IM). 
 Institute of Electrical and Electronics Engineers ISBN 9783903176157.
+</li>
+<hr>
+<li> I.Z. Kiss, J.C. Miller & P.L. Simon,  (2019) Fast Variables Determine the Epidemic Threshold in the Pairwise Model with an Improved Closure. 
+In: Aiello L., Cherifi C., Cherifi H., Lambiotte R., Lió P., Rocha L. (eds) 
+Complex Networks and Their Applications VII. COMPLEX NETWORKS 2018. 
+Studies in Computational Intelligence, vol 812. Springer, Cham. <a href='https://link.springer.com/chapter/10.1007/978-3-030-05411-3_30'> [html] </a> 
+<a href='https://arxiv.org/abs/1809.04450'> [arxiv] </a>
+</li>
+<hr>
+<li>
+Overbury, P., Kiss, I. Z., & Berthouze, L. (2019). Mapping structural diversity in networks sharing a given degree distribution and global clustering: Adaptive resolution grid search evolution with Diophantine equation-based mutations. In Complex Networks and Their Applications VII: Volume 1 Proceedings The 7th International Conference on Complex Networks and Their Applications COMPLEX NETWORKS 2018 7 (pp. 718-730). Springer International Publishing. <a href='https://link.springer.com/chapter/10.1007/978-3-030-05411-3_57'> [html] </a> 
 </li>
 <hr>
 <li> A. Messager, G. Parisis, R. Harper, P. Tee, I.Z. Kiss & L. Berthouze (2018) Network Events in a Large Commercial Network: What can we learn?
@@ -471,7 +479,7 @@ Numbers for Network Epidemics with Non-Markovian Recovery. ECMI 2016 Proceedings
 In: Mondaini RP (ed.) BIOMAT 2015, Singapore: World Scientific, 40-53. <a href='biomat2015GergoMathPart.pdf'> [pdf] </a>
 </li>
 <hr>-->
-<li> G. R\H{o}st, Zs. Vizi & I.Z. Kiss (2016) Impact of non-Markovian recovery on network epidemics. 
+<li> G. Röst, Zs. Vizi & I.Z. Kiss (2016) Impact of non-Markovian recovery on network epidemics. 
 In: Mondaini RP (ed.) BIOMAT 2015, Singapore: World Scientific, 40-53. <a href='biomat2015GergoMathPart.pdf'> [pdf] </a>
 </li>
 <hr>
