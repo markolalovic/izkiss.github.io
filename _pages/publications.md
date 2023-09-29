@@ -35,6 +35,13 @@ epidemics: from exact to approximate models. Interdisciplinary and Applied Mathe
 <H2> To appear, submitted or in preparation</h2>
 <ol reversed start="88">
 <li>
+Kiss, István Z., et al. "Insights from exact social contagion dynamics on networks with higher-order structures." <a href='https://arxiv.org/pdf/2309.12752.pdf'> [arxiv] </a>
+</li>
+<li>
+Kiss, István Z., Luc Berthouze, and Wasiur R. KhudaBukhsh. "Towards inferring network properties from epidemic data." <a href='https://arxiv.org/pdf/2302.02470.pdf'> [arxiv] </a>
+</li>
+
+<li>
 F. Di Lauro, J.-C. Croix, M. Dashti, L. Berthouze & I.Z. Kiss (2019) Network Inference from Population-Level Observation of Epidemics. 
 <a href='https://arxiv.org/abs/1906.10966'> [arxiv] </a>
 </li>
@@ -70,6 +77,78 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 </ol>
 <hr>
 <H3>Peer-reviewed research papers (graph theory, network science, stochastic processes, dynamical systems, mathematical epidemiology) </h3>
+
+<H3> 2023</h3>
+<ol reversed start="80">
+<li>
+Kiss, I. Z., Kenah, E., & Rempała, G. A. (2023). Necessary and sufficient conditions for exact closures of epidemic equations on configuration model networks. Journal of Mathematical Biology, 87(2), 36. <a href='https://link.springer.com/article/10.1007/s00285-023-01967-9'> [html] </a>
+</li>
+<hr>
+<li>
+Kiss, I. Z., & Simon, P. L. (2023). On parameter identifiability in network-based epidemic models. Bulletin of Mathematical Biology, 85(3), 18. <a href='https://link.springer.com/article/10.1007/s11538-023-01121-y'> [html] </a>
+</li>
+</ol>
+<hr>
+
+<H3> 2022</h3>
+<ol reversed start="80">
+<li>
+Di Lauro, F., KhudaBukhsh, W. R., Kiss, I. Z., Kenah, E., Jensen, M., & Rempała, G. A. (2022). Dynamic survival analysis for non-Markovian epidemic models. Journal of The Royal Society Interface, 19(191), 20220124. <a href='https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2022.0124'> [html] </a>
+</li>
+<hr>
+<li>
+Zerenner, T., Di Lauro, F., Dashti, M., Berthouze, L., & Kiss, I. Z. (2022). Probabilistic predictions of SIS epidemics on networks based on population-level observations. Mathematical Biosciences, 350, 108854. <a href='https://www.sciencedirect.com/science/article/pii/S002555642200058X'> [html] </a>
+</li>
+<hr>
+<li>
+Backhausz, Á., Kiss, I. Z., & Simon, P. L. (2022). The impact of spatial and social structure on an SIR epidemic on a weighted multilayer network. Periodica Mathematica Hungarica, 85(2), 343-363. <a href='https://link.springer.com/article/10.1007/s10998-021-00440-8'> [html] </a>
+</li>
+<hr>
+<li>
+Kiss, I. Z., Blyuss, K. B., Kyrychko, Y. N., Middleton, J., Roland, D., Bertini, L., ... & Cassell, J. A. (2022). How can risk of COVID-19 transmission be minimised in domiciliary care for older people: development, parameterisation and initial results of a simple mathematical model. Epidemiology & Infection, 150, e13. <a href='https://www.cambridge.org/core/services/aop-cambridge-core/content/view/35EEB84154FC3638BBB2F831A01261BD/S0950268821002727a.pdf/div-class-title-how-can-risk-of-covid-19-transmission-be-minimised-in-domiciliary-care-for-older-people-development-parameterization-and-initial-results-of-a-simple-mathematical-model-div.pdf'> [html] </a>
+</li>
+<hr>
+<li>
+Edelman, N. L., Simon, P., Cassell, J. A., & Kiss, I. Z. (2022). Network analysis of England's single parent household COVID-19 control policy impact: a proof-of-concept study. Epidemiology & Infection, 150. <a href='https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CF0600DEE42CFDD5CC99E598A75E01F0/S0950268822000905a.pdf/div-class-title-network-analysis-of-england-s-single-parent-household-covid-19-control-policy-impact-a-proof-of-concept-study-div.pdf'> [html] </a>
+</li>
+</ol>
+<hr>
+
+<H3> 2021</h3>
+<ol reversed start="80">
+<li>
+Di Lauro, F., Kiss, I. Z., & Miller, J. C. (2021). Optimal timing of one-shot interventions for epidemic control. PLoS Computational Biology, 17(3), e1008763. <a href='https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008763'> [html] </a>
+</li>
+<hr>
+<li>
+Bell, J., Bianconi, G., Butler, D., Crowcroft, J., Davies, P. C., Hicks, C., Kim, H., Kiss, I.Z., Di Lauro, F., Maple, C., Paul, A., Prokopenko, K., Tee, P., & Walker, S. (2021). Beyond COVID-19: network science and sustainable exit strategies. Journal of Physics: Complexity, 2(2), 021001. <a href='https://iopscience.iop.org/article/10.1088/2632-072X/abcbea/pdf'> [html] </a>
+</li>
+<hr>
+<li>
+Di Lauro, F., Berthouze, L., Dorey, M. D., Miller, J. C., & Kiss, I. Z. (2021). The Impact of Contact Structure and Mixing on Control Measures and Disease-Induced Herd Immunity in Epidemic Models: A Mean-Field Model Perspective. Bulletin of Mathematical Biology, 83, 1-25. <a href='https://link.springer.com/article/10.1007/s11538-021-00947-8'> [html] </a>
+</li>
+</ol>
+<hr>
+
+<H3> 2020</h3>
+<ol reversed start="80">
+<li>
+Di Lauro, F., Croix, J. C., Dashti, M., Berthouze, L., & Kiss, I. Z. (2020). Network inference from population-level observation of epidemics. Scientific Reports, 10(1), 18779. <a href='https://www.nature.com/articles/s41598-020-75558-9'> [html] </a>
+</li>
+<hr>
+<li>
+Thompson, R. N., Hollingsworth, T. D., Isham, V., Arribas-Bel, D., Ashby, B., Britton, T., ... & Restif, O. (2020). Key questions for modelling COVID-19 exit strategies. Proceedings of the Royal Society B, 287(1932), 20201405. <a href='https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.1405'> [html] </a>
+</li>
+<hr>
+<li>
+Di Lauro, F., Croix, J. C., Berthouze, L., & Kiss, I. Z. (2020). PDE limits of stochastic SIS epidemics on networks. Journal of Complex Networks, 8(4), cnaa043. <a href='https://academic.oup.com/comnet/article/8/4/cnaa043/6056227?login=false'> [html] </a>
+<li>
+</hr>
+<li>
+Georgiou, N., Kiss, I. Z., & Simon, P. L. (2020). Theoretical and numerical considerations of the assumptions behind triple closures in epidemic models on networks. Trends in Biomathematics: Modeling Cells, Flows, Epidemics, and the Environment: Selected Works from the BIOMAT Consortium Lectures, Szeged, Hungary, 2019 19, 209-234. <a href='https://link.springer.com/chapter/10.1007/978-3-030-46306-9_14'> [html] </a>
+</li>
+</ol>
+<hr>
 
 <H3> 2019</h3>
 <ol reversed start="80">
