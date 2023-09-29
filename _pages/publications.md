@@ -464,7 +464,7 @@ Institute of Electrical and Electronics Engineers ISBN 9783903176157.
 The Third IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2018). <a href="AnNet_Antoine.pdf"> [pdf] </a>
 </li>
 <hr>
-<li> G. R&oumlst, I.Z. Kiss & Zs. Vizi (2017) Variance of Infectious Periods and Reproduction
+<li> G. Röst, I.Z. Kiss & Zs. Vizi (2017) Variance of Infectious Periods and Reproduction
 Numbers for Network Epidemics with Non-Markovian Recovery. ECMI 2016 Proceedings Publication. <a href='ecmi_pairwiseR0variance.pdf'> [pdf] </a></li>
 <hr>
 <!--<li> G. R&oumlst, Zs. Vizi & I.Z. Kiss (2016) Impact of non-Markovian recovery on network epidemics. 
