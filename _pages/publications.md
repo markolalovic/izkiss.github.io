@@ -319,17 +319,17 @@ J. Math. Biol. 70, 437-464. <a href='http://arxiv.org/abs/1307.7737'> [arxiv] </
 <li> A. Szabo, P.L. Simon & I.Z. Kiss (2012) Detailed study of bifurcations in an epidemic model on a dynamic network. Differ. Equ. Appl. 4, 277-296. <a href="files/BifurcationsDynamicGraphVegso.pdf"> [pdf]  </a>
 </li>
 <hr>
-<li> I.Z. Kiss, L. Berthouze, T.J. Taylor & P.L. Simon (2012) Modelling approaches for simple dynamic networks and applications to disease transmission models. Proc. Roy. Soc. A. DOI: 10.1098/rspa.2011.0349. <a href="files/DynamicNetworkIZKissFinal.pdf"> [pdf] <br> <br> </a> 
+<li> I.Z. Kiss, L. Berthouze, T.J. Taylor & P.L. Simon (2012) Modelling approaches for simple dynamic networks and applications to disease transmission models. Proc. Roy. Soc. A. DOI: 10.1098/rspa.2011.0349. <a href="files/DynamicNetworkIZKissFinal.pdf"> [pdf] </a> 
 </li>
 <hr>
-<li> D. Schley, S. Whittle, M. Taylor & I.Z. Kiss (2012) Models to capture the potential for disease transmission in domestic sheep flocks. Prev. Vet. Med. 106, 174-184. <a href="files/PVM_Schley_Flockmodels.pdf"> [pdf] <br> <br> </a>
+<li> D. Schley, S. Whittle, M. Taylor & I.Z. Kiss (2012) Models to capture the potential for disease transmission in domestic sheep flocks. Prev. Vet. Med. 106, 174-184. <a href="files/PVM_Schley_Flockmodels.pdf"> [pdf] </a>
 </li>
 <hr>
-<li> P.L. Simon & I.Z. Kiss (2012) From exact stochastic to mean-field ODE models: a new approach to prove convergence results. IMA J. Appl. Math. 1-20, DOI:10.1093/imamat/hxs001. <a href="files/SimonKissConvResultsIMA.pdf"> [pdf] <br> <br> </a>  
+<li> P.L. Simon & I.Z. Kiss (2012) From exact stochastic to mean-field ODE models: a new approach to prove convergence results. IMA J. Appl. Math. 1-20, DOI:10.1093/imamat/hxs001. <a href="files/SimonKissConvResultsIMA.pdf"> [pdf] </a>  
 </li>
 <hr>
-<li> M. Taylor, P. L. Simon, D.M. Green, T. House & I. Z. Kiss (2012) From Markovian to pairwise epidemic models and the performance of moment
-closure approximations. J. Math. Biol. 64, 1021-1042. DOI 10.1007/s00285-011-0443-3. <a href="files/MarkovianToPairwisePaper_MTaylor.pdf"> [pdf]</a>  
+<li> M. Taylor, P. L. Simon, D.M. Green, T. House & I. Z. Kiss (2012) From Markovian to pairwise epidemic models and the performance of moment closure approximations. J. Math. Biol. 64, 1021-1042. DOI 10.1007/s00285-011-0443-3. 
+<a href="files/MarkovianToPairwisePaper_MTaylor.pdf"> [pdf]</a>  
 </li>
 </ol>
 
@@ -373,15 +373,20 @@ Implications for disease dynamics.  Journal of Biological Dynamics 4, 431-445. <
 
 <H3> 2008</h3>
 <ol reversed start="32">
-<li> L. Yakob, I.Z. Kiss & M.B. Bonsall (2008) A network approach to modeling population aggregation and genetic control of pest insects. Theor. Pop. Biol. 74, 324-331. <a href="files/LaithFinalPublished.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
+<li> L. Yakob, I.Z. Kiss & M.B. Bonsall (2008) A network approach to modeling population aggregation and genetic control of pest insects. Theor. Pop. Biol. 74, 324-331. <a href="files/LaithFinalPublished.pdf"> [pdf] </a>  
+</li>
 <hr>
-<li> I.Z. Kiss & D.M. Green (2008) Comment on ''Properties of highly clustered networks''.  Phys. Rev. E. 78, 048101. <a href="files/CommentOnClustredNetworks.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
+<li> I.Z. Kiss & D.M. Green (2008) Comment on ''Properties of highly clustered networks''.  Phys. Rev. E. 78, 048101. <a href="files/CommentOnClustredNetworks.pdf"> [pdf] </a> 
+</li>
 <hr>
-<li> J.E. Dent , R.R. Kao , I.Z. Kiss, K. Hyder & M. Arnold (2008) Contact structures in the poultry industry in Great Britain: Exploring transmission routes for a potential avian influenza virus epidemic. BMC Veterinary Research 4:27. DOI:10.1186/1746-6148-4-27. <a href="files/AInetwork.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
+<li> J.E. Dent , R.R. Kao , I.Z. Kiss, K. Hyder & M. Arnold (2008) Contact structures in the poultry industry in Great Britain: Exploring transmission routes for a potential avian influenza virus epidemic. BMC Veterinary Research 4:27. DOI:10.1186/1746-6148-4-27. <a href="files/AInetwork.pdf"> [pdf] </a>  
+</li>
 <hr>
-<li> D.M. Green, I.Z. Kiss, A.P. Mitchell & R.R. Kao (2008) Estimates for local and movement-based transmission of bovine tuberculosis in British Cattle. Proc. R. Soc. B 275, 1001-1005. <a href="files/DarrenBTB.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
+<li> D.M. Green, I.Z. Kiss, A.P. Mitchell & R.R. Kao (2008) Estimates for local and movement-based transmission of bovine tuberculosis in British Cattle. Proc. R. Soc. B 275, 1001-1005. <a href="files/DarrenBTB.pdf"> [pdf] </a>  
+</li>
 <hr>
-<li>I.Z. Kiss, D.M. Green & R.R. Kao (2008) The effect of network mixing patterns on epidemic dynamics and the efficacy of disease contact tracing. J. R. Soc. Interface 5, 791-799. <a href="files/MixingPaperInterfaceFinal.pdf"> [pdf] <br> <br> </a> <!-- <a href="Published_Mixing_CT.pdf"> [pdf] <br> <br> </a> --> </li>
+<li>I.Z. Kiss, D.M. Green & R.R. Kao (2008) The effect of network mixing patterns on epidemic dynamics and the efficacy of disease contact tracing. J. R. Soc. Interface 5, 791-799. <a href="files/MixingPaperInterfaceFinal.pdf"> [pdf] </a>  
+</li>
 </ol>
 
 
