@@ -149,6 +149,10 @@ Di Lauro, F., Croix, J. C., Berthouze, L., & Kiss, I. Z. (2020). PDE limits of s
 <li>
 Georgiou, N., Kiss, I. Z., & Simon, P. L. (2020). Theoretical and numerical considerations of the assumptions behind triple closures in epidemic models on networks. Trends in Biomathematics: Modeling Cells, Flows, Epidemics, and the Environment: Selected Works from the BIOMAT Consortium Lectures, Szeged, Hungary, 2019 19, 209-234. <a href='https://link.springer.com/chapter/10.1007/978-3-030-46306-9_14'> [html] </a>
 </li>
+<hr>
+<li>
+Di Lauro, Francesco, et al. "Covid-19 and flattening the curve: A feedback control perspective." IEEE Control Systems Letters 5.4 (2020): 1435-1440. <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9264204&casa_token=nlFdNWqS1U0AAAAA:Hl-U6-cYn-pxR49IiFi9CTy_08ApSFqGgQlICnhudnSN4GSxgOCAbgaU3hh-SdOrfP4FdMgv'> [html] </a>
+</li>
 </ol>
 <hr>
 
