@@ -47,7 +47,7 @@ Kiss, I. Z., Berthouze, L., & KhudaBukhsh, W. R. (2023). Towards inferring netwo
 <ol reversed start="101">
 <li> "Mapping out emerging network structures in dynamic network
 models coupled with epidemics" (with L. Berthouze, J.C. Miller & P.L. Simon) Forthcoming in Temporal Network Epidemiology (2017), Springer, Edited by 
-Petter Holme and Naoki Masuda. <a href="Dynamic_netw_chapter.pdf"> [pdf] </a>
+Petter Holme and Naoki Masuda. <a href="../files/Dynamic_netw_chapter.pdf"> [pdf] </a>
 <!-- <a href='http://biorxiv.org/content/early/2016/05/10/052589'> [biorxiv] </a> -->
 </li>
 <hr>
