@@ -19,13 +19,15 @@ author_profile: true
 
 <H2> <a style="color:red;"> Research Highlights </a></h2>
 <ol reversed start="104">
-<blockquote><div style="background-color:#DCDCDC; color:#000000; font-style: normal;">
-<li> <img src="../images/book_icon_new.jpg" alt="Mountain View" style="width:30px;height:22px;"> Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on networks. Cham: Springer, 598, 31.
-<a href='http://www.springer.com/gb/book/9783319508047'> Springer</a>, 
+<!-- <blockquote><div style="background-color:#DCDCDC; color:#000000; font-style: normal;"> -->
+<li> 
+<img src="../images/book_icon_new.jpg" alt="Mountain View" style="width:30px;height:22px;"> 
+Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on networks. Cham: Springer, 598, 31.
+<a href='http://www.springer.com/gb/book/9783319508047'> Springer</a>
 <a href='http://scholar.harvard.edu/files/joelmiller/files/Tab_of_cont_Index_Refs.pdf'> Tab_Cont_Index_Ref</a>
 </li>
-</div>
-</blockquote>
+<!-- </div> -->
+<!-- </blockquote> -->
 </ol>
 
 
