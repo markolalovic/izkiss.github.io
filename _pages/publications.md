@@ -18,7 +18,7 @@ author_profile: true
 
 
 <H2> <a style="color:red;"> Research Highlights </a></h2>
-<ol reversed start="87">
+<ol reversed start="104">
 <blockquote><div style="background-color:#DCDCDC; color:#000000; font-style: normal;">
 <li> <img src="book_icon_new.jpg" alt="Mountain View" style="width:30px;height:22px;"> I.Z. Kiss, J.C. Miller & P.L. Simon (2016) Mathematics of network
 epidemics: from exact to approximate models. In the Interdisciplinary Applied Mathematics series,
@@ -33,7 +33,7 @@ epidemics: from exact to approximate models. Interdisciplinary and Applied Mathe
 
 
 <H2> To appear, submitted or in preparation</h2>
-<ol reversed start="88">
+<ol reversed start="103">
 <li>
 Kiss, István Z., et al. "Insights from exact social contagion dynamics on networks with higher-order structures." <a href='https://arxiv.org/pdf/2309.12752.pdf'> [arxiv] </a>
 </li>
@@ -44,7 +44,7 @@ Kiss, István Z., Luc Berthouze, and Wasiur R. KhudaBukhsh. "Towards inferring n
 
 <H2> In press & published </h2>
 <H3>Book Chapters</h3>
-<ol reversed start="84">
+<ol reversed start="101">
 <li> "Mapping out emerging network structures in dynamic network
 models coupled with epidemics" (with L. Berthouze, J.C. Miller & P.L. Simon) Forthcoming in Temporal Network Epidemiology (2017), Springer, Edited by 
 Petter Holme and Naoki Masuda. <a href="Dynamic_netw_chapter.pdf"> [pdf] </a>
@@ -71,7 +71,7 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 <H3>Peer-reviewed research papers (graph theory, network science, stochastic processes, dynamical systems, mathematical epidemiology) </h3>
 
 <H3> 2023</h3>
-<ol reversed start="80">
+<ol reversed start="97">
 <li>
 Kiss, I. Z., Kenah, E., & Rempała, G. A. (2023). Necessary and sufficient conditions for exact closures of epidemic equations on configuration model networks. Journal of Mathematical Biology, 87(2), 36. <a href='https://link.springer.com/article/10.1007/s00285-023-01967-9'> [html] </a>
 </li>
@@ -82,7 +82,7 @@ Kiss, I. Z., & Simon, P. L. (2023). On parameter identifiability in network-base
 </ol>
 
 <H3> 2022</h3>
-<ol reversed start="80">
+<ol reversed start="95">
 <li>
 Di Lauro, F., KhudaBukhsh, W. R., Kiss, I. Z., Kenah, E., Jensen, M., & Rempała, G. A. (2022). Dynamic survival analysis for non-Markovian epidemic models. Journal of The Royal Society Interface, 19(191), 20220124. <a href='https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2022.0124'> [html] </a>
 </li>
@@ -106,7 +106,7 @@ Edelman, N. L., Simon, P., Cassell, J. A., & Kiss, I. Z. (2022). Network analysi
 
 
 <H3> 2021</h3>
-<ol reversed start="80">
+<ol reversed start="90">
 <li>
 Di Lauro, F., Kiss, I. Z., & Miller, J. C. (2021). Optimal timing of one-shot interventions for epidemic control. PLoS Computational Biology, 17(3), e1008763. <a href='https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008763'> [html] </a>
 </li>
@@ -122,7 +122,7 @@ Di Lauro, F., Berthouze, L., Dorey, M. D., Miller, J. C., & Kiss, I. Z. (2021). 
 
 
 <H3> 2020</h3>
-<ol reversed start="80">
+<ol reversed start="87">
 <li>
 Di Lauro, F., Croix, J. C., Dashti, M., Berthouze, L., & Kiss, I. Z. (2020). Network inference from population-level observation of epidemics. Scientific Reports, 10(1), 18779. <a href='https://www.nature.com/articles/s41598-020-75558-9'> [html] </a>
 </li>
@@ -145,7 +145,7 @@ Di Lauro, Francesco, et al. "Covid-19 and flattening the curve: A feedback contr
 </ol>
 
 <H3> 2019</h3>
-<ol reversed start="80">
+<ol reversed start="82">
 <li> R. Barnard, L. Berthouze, P.L. Simon & I.Z. Kiss (2019) Epidemic threshold in pairwise models for clustered networks: closures and fast correlations.
 J. Math. Biol. DOI:10.1007/s00285-019-01380-1
 <a href='https://link.springer.com/content/pdf/10.1007%2Fs00285-019-01380-1.pdf'> [html] </a>
@@ -160,7 +160,7 @@ Messager, A., Parisis, G., Kiss, I. Z., Harper, R., Tee, P., & Berthouze, L. (20
 </ol>
 
 <H3> 2018</h3>
-<ol reversed start="76">
+<ol reversed start="79">
 <li> R.C. Barnard, J.C. Miller, L. Berthouze & I.Z. Kiss (2018) Edge-based compartmental modelling of an SIR epidemic on a dual-layer static-dynamic multiplex network with tunable clustering.
 Bull. Math. Biol. DOI:10.1007/s11538-018-0484-5. <a href='https://link.springer.com/article/10.1007%2Fs11538-018-0484-5'> [html] </a>
 </li>
@@ -188,7 +188,7 @@ Discrete and Continuous Dynamical Systems - Series B.,
 
 
 <H3> 2017</h3>
-<ol reversed start="70">
+<ol reversed start="73">
 <li> P. Tee, I. Wakeman, G. Parisis, J. Dawes & I. Z. Kiss (2017) Constraints and Entropy in a Model of Network Evolution, 
 Eur. Phys. J. B 90: 226.
 <a href='https://link.springer.com/content/pdf/10.1140%2Fepjb%2Fe2017-80185-5.pdf'> [html] </a></li>
@@ -202,7 +202,7 @@ Their Applications V. COMPLEX NETWORKS 2016. Studies in Computational Intelligen
 
 
 <H3> 2016</h3>
-<ol reversed start="68">
+<ol reversed start="71">
 <li> N. Sherborne, K.B. Blyuss & I.Z. Kiss (2016) Compact pairwise models for multi-stage infections on
 degree heterogeneous and clustered networks. J. Theor. Biol. 407:387–400. <a href='http://arxiv.org/abs/1602.05227'> [arxiv] </a> <a href='http://www.sciencedirect.com/science/article/pii/S0022519316301989'> [html] </a>
 </li>
@@ -229,7 +229,7 @@ Journal of Complex Networks, 4, 187-200. <a href='https://journals.aps.org/prl/a
 
 
 <H3> 2015</h3>
-<ol reversed start="63">
+<ol reversed start="66">
 <li> Nicos Georgiu, I.Z. Kiss & Enrico Scalas (2015) Exactly-solvable non-Markovian dynamic network. Phys. Rev. E 92, 042801. <a href='http://arxiv.org/abs/1502.04072'> [arxiv] </a> 
 </li>
 <hr>
@@ -264,7 +264,7 @@ J. Math. Biol. 70, 437-464.
 
 
 <H3> 2014</h3>
-<ol reversed start="56">
+<ol reversed start="59">
 <li> P. Rattana, L. Berthouze & I.Z. Kiss (2014) The impact of constrained rewiring on network structure and node dynamics. Phys. Rev. E. 90, 052806.
     <a href='http://arxiv.org/abs/1406.2500'> [arxiv] </a>
     </li>
@@ -298,7 +298,7 @@ J. Math. Biol. 70, 437-464.
 
 
 <H3> 2013</h3>
-<ol reversed start="49">
+<ol reversed start="52">
 <li> K.J. Sharkey, I.Z. Kiss, R.R. Wilkinson & Peter L. Simon (2013) Exact equations for SIR epidemics on tree graphs. Published online in Bull. Maths. Biol. (DOI 10.1007/s11538-013-9923-5)
 <a href='http://arxiv.org/abs/1212.2172'> [arxiv] </a>
 </li>
@@ -314,7 +314,7 @@ J. Math. Biol. 70, 437-464.
 
 
 <H3> 2012</h3>
-<ol reversed start="46">
+<ol reversed start="49">
 <li> I.Z. Kiss & P.L. Simon (2012) New moment closures based on a priori distributions with applications to epidemic dynamics. Bull. Math. Biol. 74, 1501-1515. 
     <a href="Kiss_Simon_Binomial_Closure_BullMathBiol.pdf"> [pdf] <br> <br> 
     </a><!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> -->
@@ -340,7 +340,7 @@ closure approximations. J. Math. Biol. 64, 1021-1042. DOI 10.1007/s00285-011-044
 
 
 <H3> 2011</h3>
-<ol reversed start="37">
+<ol reversed start="40">
 <li> J. E. Dent, I.Z. Kiss, R.R. Kao, L. Snow & M. Arnold (2011) The spread of highly pathogenic avian influenza virus via dynamic contacts between poultry premises in Great Britain.
 BMC Veterinary Research 7:59, DOI:10.1186/1746-6148-7-59.
 </li>
@@ -355,7 +355,7 @@ dynamics. Math. Biosci. 231, 197-209. <a href="InfoTransVasi.pdf"> [pdf] <br> <b
 
 
 <H3> 2010</h3>
-<ol reversed start="33">
+<ol reversed start="36">
 <li> I.Z. Kiss, J. Cassell, M. Recker & P.L. Simon (2010) The impact of information transmission on epidemic outbreaks. Math. Biosci. 225, 1-10. <a href="InfoTrans.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
 <hr>
 <li> D.M. Green & I.Z. Kiss (2010) Large-scale properties of clustered networks:
@@ -366,13 +366,13 @@ Implications for disease dynamics.  Journal of Biological Dynamics 4, 431-445. <
 
 
 <H3> 2009</h3>
-<ol reversed start="30">
+<ol reversed start="33">
 <li> I.Z. Kiss, P.L. Simon & R.R. Kao (2009) A contact-network-based formulation of a preferential mixing model. Bull. of Math. Biol. 71, 888-905. <a href="ConactNetwBasedPrefMixingModelBullFinalPub.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> download pdf <br> <br> </a> --> </li>
 </ol>
 
 
 <H3> 2008</h3>
-<ol reversed start="29">
+<ol reversed start="32">
 <li> L. Yakob, I.Z. Kiss & M.B. Bonsall (2008) A network approach to modeling population aggregation and genetic control of pest insects. Theor. Pop. Biol. 74, 324-331. <a href="LaithFinalPublished.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
 <hr>
 <li> I.Z. Kiss & D.M. Green (2008) Comment on ''Properties of highly clustered networks''.  Phys. Rev. E. 78, 048101. <a href="CommentOnClustredNetworks.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
@@ -386,7 +386,7 @@ Implications for disease dynamics.  Journal of Biological Dynamics 4, 431-445. <
 
 
 <H3> 2007</h3>
-<ol reversed start="24">
+<ol reversed start="27">
 <li> D.M. Green, V.J. del Rio Vilas, C.P.D. Birch, J. Johnson, I.Z. Kiss, N.D. McCarthy & R.R. Kao (2007) Demographic risk factors for classical and atypical scrapie in Great Britain. J. Gen. Virol. 88, 3486-3492. <a href="ScrapieDemRiskFact.pdf"> [pdf] <br> <br> </a> <!-- <a href="ScrapieDemRiskFact.pdf"> [pdf] <br> <br> </a> --> </li>
 <hr>
 <li> R.R. Kao, D.M. Green, J.Johnson & I.Z. Kiss (2007) Disease Dynamics over very different timescales: foot-and-mouth disease and scrapie on the network of livestock movements in the UK. J. R. Soc. Interface, 4, 907-916, doi:10.1098/rsif.2007.1129. <a href="Published_Multiple_Scales.pdf"> [pdf] <br> <br> </a> <!-- <a href="Published_Multiple_Scales.pdf"> [pdf] <br> <br> </a> --> </li>
@@ -394,7 +394,7 @@ Implications for disease dynamics.  Journal of Biological Dynamics 4, 431-445. <
 
 
 <H3> 2006</h3>
-<ol reversed start="22">
+<ol reversed start="25">
 <li> I.Z. Kiss, D.M. Green & R.R. Kao (2006) The effect of network heterogeneity and multiple routes of transmission on final epidemic size. Math. Biosci. 203, 124 - 136,  DOI:10.1016/j.mbs.2006.03.002. <a href="MathBiosciencesFinal.pdf"> [pdf] <br> <br> </a> <!-- <a href="MathBiosciencesFinal.pdf"> [pdf] <br> <br> </a> --> </li>
 <hr>
 <li> I.Z. Kiss, D.M. Green & R.R. Kao (2006) The network of sheep movements within Great Britain: network properties and their implication for infectious disease spread. J. R. Soc. Interface 3, 669 - 677, DOI:10.1098/rsif.2006.0129. <a href="Published_Sheep_Network.pdf"> [pdf] <br> <br> </a> <!-- <a href="Published_Sheep_Network.pdf"> [pdf] <br> <br> </a> --> </li>
@@ -413,13 +413,13 @@ DOI: 10.1098/rspb.2006.3505. <a href="ProcRoySocBKaoDanonGreenKiss2006.pdf"> [pd
 
 
 <H3> 2005</h3>
-<ol reversed start="15">
+<ol reversed start="18">
 <li> I.Z. Kiss, D.M. Green & R.R. Kao (2005) Disease contact tracing in random and clustered networks. Proc. R. Soc. B 272, 1407 - 1414, DOI:10.1098/rspb.2005.3092. <a href="ProcRoySocBIZKiss.pdf"> [pdf] <br> <br> </a> <!-- <a href="ProcRoySocBIZKiss.pdf"> [pdf] <br> <br> </a> --> </li>
 </ol>
 
 
 <H3>Peer-reviewed research papers (reaction-diffusion and reaction-diffusion-advection models)</h3>
-<ol reversed start="14">
+<ol reversed start="17">
 <li> J.H. Merkin & I.Z. Kiss (2005) Dispersion curves in the diffusional instability of reaction fronts. Phys. Rev. E 72, 026219. <a href="PhysRevE_Merkin.pdf"> [pdf] <br> <br> </a> <!-- <a href="PhysRevE_Merkin.pdf"> [pdf] <br> <br> </a> --> </li>
 <hr>
 <li> A. Zadrazil, I.Z. Kiss, J. D'Hernoncourt, H. Sevcikova, J.H. Merkin & A. De Wit (2005) Effects of constant electric fields on the buoyant stability of reaction fronts. Phys. Rev. E 71, 026224. <a href="PhysRevE_Zadrazil.pdf"> [pdf] <br> <br> </a> <!-- <a href="PhysRevE_Zadrazil.pdf"> [pdf] <br> <br> </a> --> </li>
