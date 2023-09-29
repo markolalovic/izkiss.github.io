@@ -23,7 +23,7 @@ author_profile: true
 <li> 
 <img src="../images/book_icon_new.jpg" alt="Mountain View" style="width:30px;height:22px;"> 
 Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on networks. Cham: Springer, 598, 31.
-<a href='http://www.springer.com/gb/book/9783319508047'> Springer <br> <br></a>
+<a href='http://www.springer.com/gb/book/9783319508047'> Springer </a>
 <a href='http://scholar.harvard.edu/files/joelmiller/files/Tab_of_cont_Index_Refs.pdf'> Tab_Cont_Index_Ref</a>
 </li>
 <!-- </div> -->
@@ -47,7 +47,7 @@ Kiss, I. Z., Berthouze, L., & KhudaBukhsh, W. R. (2023). Towards inferring netwo
 <ol reversed start="101">
 <li> "Mapping out emerging network structures in dynamic network
 models coupled with epidemics" (with L. Berthouze, J.C. Miller & P.L. Simon) Forthcoming in Temporal Network Epidemiology (2017), Springer, Edited by 
-Petter Holme and Naoki Masuda. <a href="../files/Dynamic_netw_chapter.pdf"> [pdf] </a>
+Petter Holme and Naoki Masuda. <a href='../files/Dynamic_netw_chapter.pdf'> [pdf] </a>
 </li>
 <hr>
 <li> "The effect of local inter-inhibitory connectivity on the dynamics 
