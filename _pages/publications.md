@@ -34,11 +34,11 @@ epidemics: from exact to approximate models. Interdisciplinary and Applied Mathe
 <H2> To appear, submitted or in preparation</h2>
 <ol reversed start="103">
 <li>
-Kiss, István Z., et al. "Insights from exact social contagion dynamics on networks with higher-order structures." <a href='https://arxiv.org/pdf/2309.12752.pdf'> [arxiv] </a>
+Kiss, I. Z., Iacopini, I., Simon, P. L., & Georgiou, N. (2023). Insights from exact social contagion dynamics on networks with higher-order structures. <a href='https://arxiv.org/pdf/2309.12752.pdf'> [arxiv] </a>
 </li>
 <hr>
 <li>
-Kiss, István Z., Luc Berthouze, and Wasiur R. KhudaBukhsh. "Towards inferring network properties from epidemic data." <a href='https://arxiv.org/pdf/2302.02470.pdf'> [arxiv] </a>
+Kiss, I. Z., Berthouze, L., & KhudaBukhsh, W. R. (2023). Towards inferring network properties from epidemic data. <a href='https://arxiv.org/pdf/2302.02470.pdf'> [arxiv] </a>
 </li>
 </ol>
 
