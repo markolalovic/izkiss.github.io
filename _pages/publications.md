@@ -30,7 +30,7 @@ epidemics: from exact to approximate models. Interdisciplinary and Applied Mathe
 </div>
 </blockquote>
 </ol>
-<hr>
+
 
 <H2> To appear, submitted or in preparation</h2>
 <ol reversed start="88">
@@ -40,17 +40,8 @@ Kiss, István Z., et al. "Insights from exact social contagion dynamics on netwo
 <li>
 Kiss, István Z., Luc Berthouze, and Wasiur R. KhudaBukhsh. "Towards inferring network properties from epidemic data." <a href='https://arxiv.org/pdf/2302.02470.pdf'> [arxiv] </a>
 </li>
-
-<li>
-F. Di Lauro, J.-C. Croix, M. Dashti, L. Berthouze & I.Z. Kiss (2019) Network Inference from Population-Level Observation of Epidemics. 
-<a href='https://arxiv.org/abs/1906.10966'> [arxiv] </a>
-</li>
-<hr>
-<li> A. Messager, G. Parisis, I.Z. Kiss, R. Harper, P. Tee & Luc Berthouze (2019) Functional Topology Inference from Network Events.
-Submitted to IFIP/IEEE International Symposium on Integrated Network Management 2019. <a href='https://arxiv.org/abs/1802.04036'> [arxiv] </a>
-</li>
-<hr>
 </ol>
+
 <H2> In press & published </h2>
 <H3>Book Chapters</h3>
 <ol reversed start="84">
@@ -75,7 +66,8 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 <a href='https://www.worldscientific.com/ISBN/9781848164345'> [html] </a>
 </li>
 </ol>
-<hr>
+
+
 <H3>Peer-reviewed research papers (graph theory, network science, stochastic processes, dynamical systems, mathematical epidemiology) </h3>
 
 <H3> 2023</h3>
@@ -88,7 +80,6 @@ Kiss, I. Z., Kenah, E., & Rempała, G. A. (2023). Necessary and sufficient condi
 Kiss, I. Z., & Simon, P. L. (2023). On parameter identifiability in network-based epidemic models. Bulletin of Mathematical Biology, 85(3), 18. <a href='https://link.springer.com/article/10.1007/s11538-023-01121-y'> [html] </a>
 </li>
 </ol>
-<hr>
 
 <H3> 2022</h3>
 <ol reversed start="80">
@@ -112,7 +103,6 @@ Kiss, I. Z., Blyuss, K. B., Kyrychko, Y. N., Middleton, J., Roland, D., Bertini,
 Edelman, N. L., Simon, P., Cassell, J. A., & Kiss, I. Z. (2022). Network analysis of England's single parent household COVID-19 control policy impact: a proof-of-concept study. Epidemiology & Infection, 150. <a href='https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CF0600DEE42CFDD5CC99E598A75E01F0/S0950268822000905a.pdf/div-class-title-network-analysis-of-england-s-single-parent-household-covid-19-control-policy-impact-a-proof-of-concept-study-div.pdf'> [html] </a>
 </li>
 </ol>
-<hr>
 
 
 <H3> 2021</h3>
@@ -129,7 +119,6 @@ Bell, J., Bianconi, G., Butler, D., Crowcroft, J., Davies, P. C., Hicks, C., Kim
 Di Lauro, F., Berthouze, L., Dorey, M. D., Miller, J. C., & Kiss, I. Z. (2021). The Impact of Contact Structure and Mixing on Control Measures and Disease-Induced Herd Immunity in Epidemic Models: A Mean-Field Model Perspective. Bulletin of Mathematical Biology, 83, 1-25. <a href='https://link.springer.com/article/10.1007/s11538-021-00947-8'> [html] </a>
 </li>
 </ol>
-<hr>
 
 
 <H3> 2020</h3>
@@ -154,7 +143,6 @@ Georgiou, N., Kiss, I. Z., & Simon, P. L. (2020). Theoretical and numerical cons
 Di Lauro, Francesco, et al. "Covid-19 and flattening the curve: A feedback control perspective." IEEE Control Systems Letters 5.4 (2020): 1435-1440. <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9264204&casa_token=nlFdNWqS1U0AAAAA:Hl-U6-cYn-pxR49IiFi9CTy_08ApSFqGgQlICnhudnSN4GSxgOCAbgaU3hh-SdOrfP4FdMgv'> [html] </a>
 </li>
 </ol>
-<hr>
 
 <H3> 2019</h3>
 <ol reversed start="80">
@@ -170,7 +158,6 @@ Journal of Mathematics in Industry 2019, 9:1. <a href='https://mathematicsinindu
 Messager, A., Parisis, G., Kiss, I. Z., Harper, R., Tee, P., & Berthouze, L. (2019). Inferring functional connectivity from time-series of events in large scale network deployments. IEEE Transactions on Network and Service Management, 16(3), 857-870. <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8786122'> [pdf] </a>
 </li>
 </ol>
-<hr>
 
 <H3> 2018</h3>
 <ol reversed start="76">
@@ -185,7 +172,7 @@ Acta Physica Polonica A. 133(6): 1421-1432. <a href='http://przyrbwn.icm.edu.pl/
 <li> N. Sherborne, K.B. Blyuss & I.Z. Kiss (2018) Bursting endemic bubbles in an adaptive network. Phys. Rev. E 97, 042306. <a href='https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.042306'> [html] </a>
 </li>
 <hr>
-<li> G. R&oumlst, Zs. Vizi & I.Z. Kiss (2018) Pairwise approximation for SIR type network
+<li> G. Röst, Zs. Vizi & I.Z. Kiss (2018) Pairwise approximation for SIR type network
 epidemics with non-Markovian recovery. Proc. R. Soc. A. 474(2210), 20170695. <a href='http://arxiv.org/abs/1605.02933'> [arxiv] </a>
 </li>
 <hr>
@@ -198,7 +185,8 @@ Discrete and Continuous Dynamical Systems - Series B.,
  J. Math. Biol. 76:755–778 <a href='https://link.springer.com/article/10.1007%2Fs00285-017-1155-0'> [JMB] </a>
 </li>
 </ol>
-<hr>
+
+
 <H3> 2017</h3>
 <ol reversed start="70">
 <li> P. Tee, I. Wakeman, G. Parisis, J. Dawes & I. Z. Kiss (2017) Constraints and Entropy in a Model of Network Evolution, 
@@ -211,7 +199,8 @@ Their Applications V. COMPLEX NETWORKS 2016. Studies in Computational Intelligen
 <a href='https://link.springer.com/chapter/10.1007/978-3-319-50901-3_18'> [html] </a>
 </li>
 </ol>
-<hr>
+
+
 <H3> 2016</h3>
 <ol reversed start="68">
 <li> N. Sherborne, K.B. Blyuss & I.Z. Kiss (2016) Compact pairwise models for multi-stage infections on
@@ -237,7 +226,8 @@ Journal of Complex Networks, 4, 187-200. <a href='https://journals.aps.org/prl/a
 <a href='http://link.springer.com/article/10.1007%2Fs00285-015-0902-3'> [html] </a>
 </li>
 </ol>
-<hr>
+
+
 <H3> 2015</h3>
 <ol reversed start="63">
 <li> Nicos Georgiu, I.Z. Kiss & Enrico Scalas (2015) Exactly-solvable non-Markovian dynamic network. Phys. Rev. E 92, 042801. <a href='http://arxiv.org/abs/1502.04072'> [arxiv] </a> 
@@ -271,7 +261,8 @@ J. Math. Biol. 70, 437-464.
     <a href="http://arxiv.org/abs/1406.3075"> [arxiv] <br> <br> </a>
 </li>
 </ol>
-<hr>
+
+
 <H3> 2014</h3>
 <ol reversed start="56">
 <li> P. Rattana, L. Berthouze & I.Z. Kiss (2014) The impact of constrained rewiring on network structure and node dynamics. Phys. Rev. E. 90, 052806.
@@ -304,7 +295,8 @@ J. Math. Biol. 70, 437-464.
     <a href='http://arxiv.org/abs/1212.3124'> [arxiv] </a> 
 </li>
 </ol>
-<hr>
+
+
 <H3> 2013</h3>
 <ol reversed start="49">
 <li> K.J. Sharkey, I.Z. Kiss, R.R. Wilkinson & Peter L. Simon (2013) Exact equations for SIR epidemics on tree graphs. Published online in Bull. Maths. Biol. (DOI 10.1007/s11538-013-9923-5)
@@ -319,7 +311,8 @@ J. Math. Biol. 70, 437-464.
     <a href='http://arxiv.org/abs/1208.6036'> [arxiv] </a>
 </li>
 </ol>
-<hr>
+
+
 <H3> 2012</h3>
 <ol reversed start="46">
 <li> I.Z. Kiss & P.L. Simon (2012) New moment closures based on a priori distributions with applications to epidemic dynamics. Bull. Math. Biol. 74, 1501-1515. 
@@ -344,7 +337,8 @@ J. Math. Biol. 70, 437-464.
 <li> M. Taylor, P. L. Simon, D.M. Green, T. House & I. Z. Kiss (2012) From Markovian to pairwise epidemic models and the performance of moment
 closure approximations. J. Math. Biol. 64, 1021-1042. DOI 10.1007/s00285-011-0443-3. <a href="MarkovianToPairwisePaper_MTaylor.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
 </ol>
-<hr>
+
+
 <H3> 2011</h3>
 <ol reversed start="37">
 <li> J. E. Dent, I.Z. Kiss, R.R. Kao, L. Snow & M. Arnold (2011) The spread of highly pathogenic avian influenza virus via dynamic contacts between poultry premises in Great Britain.
@@ -358,7 +352,8 @@ dynamics. Math. Biosci. 231, 197-209. <a href="InfoTransVasi.pdf"> [pdf] <br> <b
 <hr>
 <li> P.L. Simon, M. Taylor & I.Z. Kiss (2011) Exact epidemic models on graphs using graph-automorphism driven lumping. J. Math. Biol. 62, 479-508. <a href="SISLumping.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
 </ol>
-<hr>
+
+
 <H3> 2010</h3>
 <ol reversed start="33">
 <li> I.Z. Kiss, J. Cassell, M. Recker & P.L. Simon (2010) The impact of information transmission on epidemic outbreaks. Math. Biosci. 225, 1-10. <a href="InfoTrans.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
@@ -368,12 +363,14 @@ Implications for disease dynamics.  Journal of Biological Dynamics 4, 431-445. <
 <hr>
 <li> I.Z. Kiss, M. Broom, P.G. Craze & I. Rafols (2010) Can epidemic models describe the diffusion of topics across disciplines? Journal of Informetrics 4, 74-82. <a href="Rafols.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
 </ol>
-<hr>
+
+
 <H3> 2009</h3>
 <ol reversed start="30">
 <li> I.Z. Kiss, P.L. Simon & R.R. Kao (2009) A contact-network-based formulation of a preferential mixing model. Bull. of Math. Biol. 71, 888-905. <a href="ConactNetwBasedPrefMixingModelBullFinalPub.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> download pdf <br> <br> </a> --> </li>
 </ol>
-<hr>
+
+
 <H3> 2008</h3>
 <ol reversed start="29">
 <li> L. Yakob, I.Z. Kiss & M.B. Bonsall (2008) A network approach to modeling population aggregation and genetic control of pest insects. Theor. Pop. Biol. 74, 324-331. <a href="LaithFinalPublished.pdf"> [pdf] <br> <br> </a> <!-- <a href="not_available_pub.html"> [pdf] <br> <br> </a> --> </li>
@@ -386,14 +383,16 @@ Implications for disease dynamics.  Journal of Biological Dynamics 4, 431-445. <
 <hr>
 <li>I.Z. Kiss, D.M. Green & R.R. Kao (2008) The effect of network mixing patterns on epidemic dynamics and the efficacy of disease contact tracing. J. R. Soc. Interface 5, 791-799. <a href="MixingPaperInterfaceFinal.pdf"> [pdf] <br> <br> </a> <!-- <a href="Published_Mixing_CT.pdf"> [pdf] <br> <br> </a> --> </li>
 </ol>
-<hr>
+
+
 <H3> 2007</h3>
 <ol reversed start="24">
 <li> D.M. Green, V.J. del Rio Vilas, C.P.D. Birch, J. Johnson, I.Z. Kiss, N.D. McCarthy & R.R. Kao (2007) Demographic risk factors for classical and atypical scrapie in Great Britain. J. Gen. Virol. 88, 3486-3492. <a href="ScrapieDemRiskFact.pdf"> [pdf] <br> <br> </a> <!-- <a href="ScrapieDemRiskFact.pdf"> [pdf] <br> <br> </a> --> </li>
 <hr>
 <li> R.R. Kao, D.M. Green, J.Johnson & I.Z. Kiss (2007) Disease Dynamics over very different timescales: foot-and-mouth disease and scrapie on the network of livestock movements in the UK. J. R. Soc. Interface, 4, 907-916, doi:10.1098/rsif.2007.1129. <a href="Published_Multiple_Scales.pdf"> [pdf] <br> <br> </a> <!-- <a href="Published_Multiple_Scales.pdf"> [pdf] <br> <br> </a> --> </li>
 </ol>
-<hr>
+
+
 <H3> 2006</h3>
 <ol reversed start="22">
 <li> I.Z. Kiss, D.M. Green & R.R. Kao (2006) The effect of network heterogeneity and multiple routes of transmission on final epidemic size. Math. Biosci. 203, 124 - 136,  DOI:10.1016/j.mbs.2006.03.002. <a href="MathBiosciencesFinal.pdf"> [pdf] <br> <br> </a> <!-- <a href="MathBiosciencesFinal.pdf"> [pdf] <br> <br> </a> --> </li>
@@ -411,12 +410,13 @@ DOI: 10.1098/rspb.2006.3505. <a href="ProcRoySocBKaoDanonGreenKiss2006.pdf"> [pd
 <hr>
 <li> D.M. Green, I.Z. Kiss & R.R. Kao (2006) Parameterisation of individual-based models: Comparison with deterministic mean-field models. J. Theor. Biol. 239, 289 - 297, DOI:10.1016/j.jtbi.2005.07.018. <a href="JTBGreenKissKao2006.pdf"> [pdf] <br> <br> </a> <!-- <a href="JTBGreenKissKao2006.pdf"> [pdf] <br> <br> </a> --> </li>
 </ol>
-<hr>
+
+
 <H3> 2005</h3>
 <ol reversed start="15">
 <li> I.Z. Kiss, D.M. Green & R.R. Kao (2005) Disease contact tracing in random and clustered networks. Proc. R. Soc. B 272, 1407 - 1414, DOI:10.1098/rspb.2005.3092. <a href="ProcRoySocBIZKiss.pdf"> [pdf] <br> <br> </a> <!-- <a href="ProcRoySocBIZKiss.pdf"> [pdf] <br> <br> </a> --> </li>
 </ol>
-<hr>
+
 
 <H3>Peer-reviewed research papers (reaction-diffusion and reaction-diffusion-advection models)</h3>
 <ol reversed start="14">
@@ -441,7 +441,7 @@ DOI: 10.1098/rspb.2006.3505. <a href="ProcRoySocBKaoDanonGreenKiss2006.pdf"> [pd
 </ol>
 <hr>
 <H3>Conference proceedings</h3>
-<ol reversed start="5">
+<ol reversed start="8">
 <li> A. Bishop, I.Z. Kiss, T. House (2019) Consistent Approximation of Epidemic Dynamics on Degree-Heterogeneous 
 Clustered Networks. In: Aiello L., Cherifi C., Cherifi H., Lambiotte R., Lió P., Rocha L. (eds) 
 Complex Networks and Their Applications VII. COMPLEX NETWORKS 2018. Studies in Computational Intelligence, vol 812. 
@@ -468,8 +468,7 @@ Studies in Computational Intelligence, vol 812. Springer, Cham. <a href='https:/
 Overbury, P., Kiss, I. Z., & Berthouze, L. (2019). Mapping structural diversity in networks sharing a given degree distribution and global clustering: Adaptive resolution grid search evolution with Diophantine equation-based mutations. In Complex Networks and Their Applications VII: Volume 1 Proceedings The 7th International Conference on Complex Networks and Their Applications COMPLEX NETWORKS 2018 7 (pp. 718-730). Springer International Publishing. <a href='https://link.springer.com/chapter/10.1007/978-3-030-05411-3_57'> [html] </a> 
 </li>
 <hr>
-<li> A. Messager, G. Parisis, R. Harper, P. Tee, I.Z. Kiss & L. Berthouze (2018) Network Events in a Large Commercial Network: What can we learn?
-The Third IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2018). <a href="AnNet_Antoine.pdf"> [pdf] </a>
+<li> A. Messager, G. Parisis, R. Harper, P. Tee, I.Z. Kiss & L. Berthouze (2018) Network Events in a Large Commercial Network: What can we learn? The Third IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2018). <a href="AnNet_Antoine.pdf"> [pdf] </a>
 </li>
 <hr>
 <li> G. Röst, I.Z. Kiss & Zs. Vizi (2017) Variance of Infectious Periods and Reproduction
@@ -483,5 +482,6 @@ In: Mondaini RP (ed.) BIOMAT 2015, Singapore: World Scientific, 40-53. <a href='
 In: Mondaini RP (ed.) BIOMAT 2015, Singapore: World Scientific, 40-53. <a href='biomat2015GergoMathPart.pdf'> [pdf] </a>
 </li>
 <hr>
-<li>  I.Z. Kiss, M. Broom & I. Rafols (2009) Can epidemic models describe the diffusion of research topics across disciplines? In Larsen, B. and Leta, J. (Eds.) Proceedings of the 12th International Conference of the International Society for Scientometrics and Informetrics, Vol. 2, pp 857-86. Rio de Janeiro. </li>
+<li>  I.Z. Kiss, M. Broom & I. Rafols (2009) Can epidemic models describe the diffusion of research topics across disciplines? In Larsen, B. and Leta, J. (Eds.) Proceedings of the 12th International Conference of the International Society for Scientometrics and Informetrics, Vol. 4, pp 74-82. Rio de Janeiro. <a href='https://www.sciencedirect.com/science/article/abs/pii/S1751157709000716'> [html] </a>
+ </li>
 </ol>
