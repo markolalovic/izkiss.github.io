@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Istvan Kiss's personal webpage"
+title                    : "István Zoltán Kiss"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Istvan Kiss"
+  name             : "István Zoltán Kiss"
   avatar           : "IMG_2595.jpg"
   bio              : "Professor of Network Science"
   location         : # "https://maps.app.goo.gl/eiis42orxqzKHgZj7"
