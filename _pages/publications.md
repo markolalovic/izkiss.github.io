@@ -310,7 +310,7 @@ J. Math. Biol. 70, 437-464. <a href='http://arxiv.org/abs/1307.7737'> [arxiv] </
 <li> C. Hadjichrysanthou, M. Broom & I.Z. Kiss (2012) Approximating evolutionary dynamics on networks using a neighbourhood configuration model.  J. Theor. Biol. 312, 13-21. <a href="files/HadjiBroomKissEffJTB.pdf"> [pdf] </a> 
 </li>
 <hr>
-<li> A. Batkai, I.Z. Kiss, E. Sikolya & P.L. Simon (2012) Differential equations approximations of stochastic network processes: an operator semigroup approach. Networks and Heterogeneous Media 7, 43-58. <a href="files/Batkai_Kiss_Sikolya_Simon.pdf"> [pdf] 
+<li> A. Batkai, I.Z. Kiss, E. Sikolya & P.L. Simon (2012) Differential equations approximations of stochastic network processes: an operator semigroup approach. Networks and Heterogeneous Media 7, 43-58. <a href="files/Batkai_Kiss_Sikolya_Simon.pdf"> [pdf] </a> 
 </li>
 <hr>
 <li> M. Taylor, T.J. Taylor & I.Z. Kiss (2012) Epidemic threshold and control in a dynamic network. Phy. Rev. E. 85, 016103. <a href="files/Networks_Interface_MTaylor_July11[1].pdf"> [pdf] </a> 
