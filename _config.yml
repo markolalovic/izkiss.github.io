@@ -83,7 +83,7 @@ author:
   name             : "Istvan Kiss"
   avatar           : "IMG_2595.jpg"
   bio              : "Professor of Applied Mathematics"
-  location         : "https://maps.app.goo.gl/eiis42orxqzKHgZj7"
+  location         : # "https://maps.app.goo.gl/eiis42orxqzKHgZj7"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Wf3AWDUAAAAJ"
