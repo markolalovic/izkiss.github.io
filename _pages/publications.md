@@ -454,7 +454,7 @@ network events. IFIP/IEEE International Symposium on Integrated Network Manageme
 Intelligent Management for the Next Wave of Cyber and Social Networks, Washington DC, 
 USA, 8-12 April 2019. Published in: 
 2019 IFIP/IEEE Symposium on Integrated Network and Service Management (IM). 
-Institute of Electrical and Electronics Engineers ISBN 9783903176157.
+Institute of Electrical and Electronics Engineers ISBN 9783903176157. <a href='https://ieeexplore.ieee.org/document/8717914'> [html] </a> 
 </li>
 <hr>
 <li> I.Z. Kiss, J.C. Miller & P.L. Simon,  (2019) Fast Variables Determine the Epidemic Threshold in the Pairwise Model with an Improved Closure. 
