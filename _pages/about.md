@@ -14,12 +14,12 @@ István Z. Kiss is a Professor in the <a href='https://www.networkscienceinstitu
 </div>
 <table>
 <tr>
-<td><a href="img/HexSIRNewV2.png" target="_blank"><img src="../image/HexSIRNewV2.png" style="width:150px;height:114px;"></a></td>
-<td><a href="img/SmallWorldNew.png" target="_blank"><img src="../image/SmallWorldNew.png" style="width:150px;height:114px;"></a></td>
-<th rowspan="2"> <right><a href="img/World_Cloud.png" target="_blank"><img src="../image/World_Cloud.png" style="width:450px;height:240px;"></a></right></th>
+<td><a href="img/HexSIRNewV2.png" target="_blank"><img src="../images/HexSIRNewV2.png" style="width:150px;height:114px;"></a></td>
+<td><a href="img/SmallWorldNew.png" target="_blank"><img src="../images/SmallWorldNew.png" style="width:150px;height:114px;"></a></td>
+<th rowspan="2"> <right><a href="img/World_Cloud.png" target="_blank"><img src="../images/World_Cloud.png" style="width:450px;height:240px;"></a></right></th>
 </tr>
 <tr>
-<td><a href="img/SfSIRNew.png" target="_blank"><img src="../image/SfSIRNew.png" style="width:150px;height:114px;"></a></td>
-<td><center><a href="img/Picture1.png" target="_blank"><img src="../image/Picture1.png" style="width:100px;height:114px;"></a></center></td>
+<td><a href="img/SfSIRNew.png" target="_blank"><img src="../images/SfSIRNew.png" style="width:150px;height:114px;"></a></td>
+<td><center><a href="img/Picture1.png" target="_blank"><img src="../images/Picture1.png" style="width:100px;height:114px;"></a></center></td>
 </tr>
 </table>
