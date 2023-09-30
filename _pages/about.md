@@ -42,24 +42,24 @@ István Z. Kiss is a Professor in the Network Science Institute at Northeastern 
 						<br />
 					</div> -->
 					<div>
-						<img  src="img/World_Cloud.png" alt="world cloud" width="370" />
+						<img  src="../images/World_Cloud.png" alt="world cloud" width="370" />
 					</div>
 					<div style="width: 100%; height: 40px">&nbsp;</div>
 					<div class="gallery">
-						<a href="img/HexSIRNewV2.png" target="_blank"><img src="img/HexSIRNewV2.png"></a>
-						<a href="img/SmallWorldNew.png" target="_blank"><img src="img/SmallWorldNew.png"></a>
-						<a href="img/SfSIRNew.png" target="_blank"><img src="img/SfSIRNew.png"></a>
-						<a href="img/Picture1.png" target="_blank"><img src="img/Picture1.png"></a>
+						<a href="../images/HexSIRNewV2.png" target="_blank"><img src="../images/HexSIRNewV2.png"></a>
+						<a href="../images/SmallWorldNew.png" target="_blank"><img src="../images/SmallWorldNew.png"></a>
+						<a href="../images/SfSIRNew.png" target="_blank"><img src="../images/SfSIRNew.png"></a>
+						<a href="../images/Picture1.png" target="_blank"><img src="../images/Picture1.png"></a>
 					</div>
 					<div id="funders_mobile">
 						<div style="width: 100%; height: 40px">&nbsp;</div>
 						<div class="bold">Funders</div>
 						<div class="gallery">
-							<a href="http://www.sussex.ac.uk" target="_blank"><img src="img/US_logo.png" border="0"></a>
-							<a href="http://www.epsrc.ac.uk/Pages/default.aspx" target="_blank"><img src="img/EPSRC_logo.png" border="0"></a>
-							<a href="http://www.lms.ac.uk" target="_blank"><img src="img/LMS_logo.png" border="0"></a>
-							<a href="http://www.ima.org.uk" target="_blank"><img src="img/IMA_logo.png" border="0"></a>
-							<a href="http://www.defra.gov.uk" target="_blank"><img src="img/DEFRA_logo.png" border="0"></a>
+							<a href="http://www.sussex.ac.uk" target="_blank"><img src="../images/US_logo.png" border="0"></a>
+							<a href="http://www.epsrc.ac.uk/Pages/default.aspx" target="_blank"><img src="../images/EPSRC_logo.png" border="0"></a>
+							<a href="http://www.lms.ac.uk" target="_blank"><img src="../images/LMS_logo.png" border="0"></a>
+							<a href="http://www.ima.org.uk" target="_blank"><img src="../images/IMA_logo.png" border="0"></a>
+							<a href="http://www.defra.gov.uk" target="_blank"><img src="../images/DEFRA_logo.png" border="0"></a>
 						</div>
 					</div>
 				
