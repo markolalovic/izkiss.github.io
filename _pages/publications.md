@@ -34,15 +34,15 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 <H2> To appear, submitted or in preparation</h2>
 <ol reversed start="104">
 <li>
-Kollepara, P.K., Chisholm, R.H., Kiss, I.Z., & Miller, J.C. (2023). Ethical dilemma arises from optimising interventions for epidemics in heterogeneous populations. Submitted to J. of the Royal Soc. Interface.
+Kollepara, P.K., Chisholm, R.H., Kiss, I.Z., & Miller, J.C. (2023). Ethical dilemma arises from optimising interventions for epidemics in heterogeneous populations. <a href='https://www.medrxiv.org/content/10.1101/2023.02.18.23286135v1'> [arxiv] </a> Submitted to J. of the Royal Soc. Interface.
 </li>
 <hr>
 <li>
-Kiss, I. Z., Iacopini, I., Simon, P. L., & Georgiou, N. (2023). Insights from exact social contagion dynamics on networks with higher-order structures. <a href='https://arxiv.org/pdf/2309.12752.pdf'> [arxiv] </a> submitted to J. Complex Netw.
+Kiss, I. Z., Iacopini, I., Simon, P. L., & Georgiou, N. (2023). Insights from exact social contagion dynamics on networks with higher-order structures. <a href='https://arxiv.org/pdf/2309.12752.pdf'> [arxiv] </a> Submitted to J. Complex Netw.
 </li>
 <hr>
 <li>
-Kiss, I. Z., Berthouze, L., & KhudaBukhsh, W. R. (2023). Towards inferring network properties from epidemic data. <a href='https://arxiv.org/pdf/2302.02470.pdf'> [arxiv] </a> submitted to Bull. Math. Biol.
+Kiss, I. Z., Berthouze, L., & KhudaBukhsh, W. R. (2023). Towards inferring network properties from epidemic data. <a href='https://arxiv.org/pdf/2302.02470.pdf'> [arxiv] </a> Submitted to Bull. Math. Biol.
 </li>
 </ol>
 
