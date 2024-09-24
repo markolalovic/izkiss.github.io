@@ -34,10 +34,6 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 <H2> To appear, submitted or in preparation</h2>
 <ol reversed start="104">
 <li>
-Kollepara, P.K., Chisholm, R.H., Kiss, I.Z., & Miller, J.C. (2023). Ethical dilemma arises from optimising interventions for epidemics in heterogeneous populations. <a href='https://www.medrxiv.org/content/10.1101/2023.02.18.23286135v1'> [arxiv] </a> Submitted to J. of the Royal Soc. Interface.
-</li>
-<hr>
-<li>
 Kiss, I. Z., Iacopini, I., Simon, P. L., & Georgiou, N. (2023). Insights from exact social contagion dynamics on networks with higher-order structures. <a href='https://arxiv.org/pdf/2309.12752.pdf'> [arxiv] </a> Submitted to J. Complex Netw.
 </li>
 <hr>
@@ -48,7 +44,7 @@ Kiss, I. Z., Berthouze, L., & KhudaBukhsh, W. R. (2023). Towards inferring netwo
 
 <H2> In press & published </h2>
 <H3>Book Chapters</h3>
-<ol reversed start="101">
+<ol reversed start="102">
 <li> "Mapping out emerging network structures in dynamic network
 models coupled with epidemics" (with L. Berthouze, J.C. Miller & P.L. Simon) Forthcoming in Temporal Network Epidemiology (2017), Springer, Edited by 
 Petter Holme and Naoki Masuda. <a href='../files/Dynamic_netw_chapter.pdf'> [pdf] </a>
@@ -74,7 +70,11 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 <H3>Peer-reviewed research papers (graph theory, network science, stochastic processes, dynamical systems, mathematical epidemiology) </h3>
 
 <H3> 2023</h3>
-<ol reversed start="97">
+<ol reversed start="98">
+<li>
+Kollepara, P.K., Chisholm, R.H., Kiss, I.Z., & Miller, J.C. (2023). Ethical dilemma arises from optimising interventions for epidemics in heterogeneous populations. <a href='https://www.medrxiv.org/content/10.1101/2023.02.18.23286135v1'> [arxiv] </a> Submitted to J. of the Royal Soc. Interface.
+</li>
+<hr>
 <li>
 Kiss, I. Z., Kenah, E., & Rempała, G. A. (2023). Necessary and sufficient conditions for exact closures of epidemic equations on configuration model networks. Journal of Mathematical Biology, 87(2), 36. <a href='https://link.springer.com/article/10.1007/s00285-023-01967-9'> [html] </a>
 </li>
