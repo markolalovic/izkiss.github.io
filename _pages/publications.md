@@ -34,7 +34,7 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 <H2> To appear, submitted or in preparation</h2>
 <ol reversed start="105">
 <li>
-Teo, K., Arnold, N., Hone, A., & Kiss, I. Z. (2024). Performance of Higher-Order Networks in Reconstructing Sequential Paths: from Micro to Macro Scale. arXiv preprint arXiv:2407.19923. Submitted to J. Complex Netw. <a href='https://arxiv.org/abs/2407.19923'> [arxiv] </a> 
+Teo, K., Arnold, N., Hone, A., & Kiss, I. Z. (2024). Performance of Higher-Order Networks in Reconstructing Sequential Paths: from Micro to Macro Scale. Submitted to J. Complex Netw. <a href='https://arxiv.org/abs/2407.19923'> [arxiv] </a> 
 </li>
 
 </ol>
@@ -73,7 +73,7 @@ Kollepara, P.K., Chisholm, R.H., Kiss, I.Z., & Miller, J.C. (2024). Ethical dile
 </li>
 <hr>
 <li>
-Kiss, I. Z., Berthouze, L., & KhudaBukhsh, W. R. (2023). Towards inferring network properties from epidemic data. Bulletin of Mathematical Biology, 86(1), 6. <a href='https://link.springer.com/article/10.1007/s11538-023-01235-3'> [html] </a>
+Kiss, I. Z., Berthouze, L., & KhudaBukhsh, W. R. (2024). Towards inferring network properties from epidemic data. Bulletin of Mathematical Biology, 86(1), 6. <a href='https://link.springer.com/article/10.1007/s11538-023-01235-3'> [html] </a>
 </li>
 </ol>
 
@@ -81,7 +81,7 @@ Kiss, I. Z., Berthouze, L., & KhudaBukhsh, W. R. (2023). Towards inferring netwo
 <H3> 2023</h3>
 <ol reversed start="98">
 <li>
-Kiss, I. Z., Iacopini, I., Simon, P. L., & Georgiou, N. (2023).  Insights from exact social contagion dynamics on networks with higher-order structures. Journal of Complex Networks, 11(6), cnad044. <a href='https://academic.oup.com/comnet/article/11/6/cnad044/7455986'> [html] </a> Submitted to J. Complex Netw.
+Kiss, I. Z., Iacopini, I., Simon, P. L., & Georgiou, N. (2023).  Insights from exact social contagion dynamics on networks with higher-order structures. Journal of Complex Networks, 11(6), cnad044. <a href='https://academic.oup.com/comnet/article/11/6/cnad044/7455986'> [html] </a>
 </li>
 <hr>
 <li>
