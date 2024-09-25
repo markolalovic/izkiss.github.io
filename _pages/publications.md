@@ -69,12 +69,16 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 
 <H3>Peer-reviewed research papers (graph theory, network science, stochastic processes, dynamical systems, mathematical epidemiology) </h3>
 
-<H3> 2023</h3>
+<H3> 2024</h3>
 <ol reversed start="98">
 <li>
-Kollepara, P.K., Chisholm, R.H., Kiss, I.Z., & Miller, J.C. (2023). Ethical dilemma arises from optimising interventions for epidemics in heterogeneous populations. <a href='https://www.medrxiv.org/content/10.1101/2023.02.18.23286135v1'> [arxiv] </a> Submitted to J. of the Royal Soc. Interface.
+Kollepara, P.K., Chisholm, R.H., Kiss, I.Z., & Miller, J.C. (2023). Ethical dilemma arises from optimising interventions for epidemics in heterogeneous populations. Journal of the Royal Society Interface 21.211 (2024): 20230612. <a href='https://royalsocietypublishing.org/doi/full/10.1098/rsif.2023.0612'> [html] </a>
 </li>
 <hr>
+
+
+<H3> 2023</h3>
+<ol reversed start="97">
 <li>
 Kiss, I. Z., Kenah, E., & Rempała, G. A. (2023). Necessary and sufficient conditions for exact closures of epidemic equations on configuration model networks. Journal of Mathematical Biology, 87(2), 36. <a href='https://link.springer.com/article/10.1007/s00285-023-01967-9'> [html] </a>
 </li>
