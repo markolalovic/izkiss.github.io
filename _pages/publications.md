@@ -32,7 +32,7 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 
 
 <H2> To appear, submitted or in preparation</h2>
-<ol reversed start="111>
+<ol reversed start="111">
 <li> Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. and Kiss, I.Z., 2025. Inferring contact network characteristics from epidemic data via compact mean-field models. Accepted for publication in Journla of Complex Networks <a href='https://arxiv.org/abs/2502.12040'> [arxiv] </a>
 </li>
 <hr>
