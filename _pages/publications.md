@@ -32,12 +32,12 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 
 
 <H2> To appear, submitted or in preparation</h2>
-<ol reversed start="105">
+<ol reversed start="111>
 <li>
 Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. and Kiss, I.Z., 2025. Inferring contact network characteristics from epidemic data via compact mean-field models. Accepted for publication in Journla of Complex Networks <a href='https://arxiv.org/abs/2502.12040'> [arxiv] </a>
 </li>
 <li>
-Kiss, I.Z., Bick, C. and Simon, P.L., 2024. Decoding how higher-order network interactions shape complex contagion dynamics. Acepted for Publiction in Journal of Mathematical Biology <a href='https://arxiv.org/abs/2410.15330'> [arxiv] </a>
+Kiss, I.Z., Bick, C. and Simon, P.L., 2024. Decoding how higher-order network interactions shape complex contagion dynamics. Acepted for publiction in Journal of Mathematical Biology <a href='https://arxiv.org/abs/2410.15330'> [arxiv] </a>
 </li>
 <li>
 Malizia, F., Gallo, L., Frasca, M., Kiss, I.Z., Latora, V. and Russo, G., 2023. A pair-based approximation for simplicial contagion. <a href='https://arxiv.org/abs/2307.10151'> [arxiv] </a> 
@@ -55,7 +55,7 @@ Teo, K., Arnold, N., Hone, A., Coulon, M., Ireland, M., Santillana, M. & Kiss, I
 
 <H2> In press & published </h2>
 <H3>Book Chapters</h3>
-<ol reversed start="104">
+<ol reversed start="105">
 <li> "Mapping out emerging network structures in dynamic network
 models coupled with epidemics" (with L. Berthouze, J.C. Miller & P.L. Simon) Forthcoming in Temporal Network Epidemiology (2017), Springer, Edited by 
 Petter Holme and Naoki Masuda. <a href='../files/Dynamic_netw_chapter.pdf'> [pdf] </a>
@@ -80,11 +80,12 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 
 <H2>Peer-reviewed research papers (graph theory, network science, stochastic processes, dynamical systems, mathematical epidemiology) </h2>
 <H3> 2025</h3>
-<ol reversed start="100">
+<ol reversed start="101">
 <li>
 Teo, K., Arnold, N., Hone, A., & Kiss, I. Z. (2025). Performance of Higher-Order Networks in Reconstructing Sequential Paths: from Micro to Macro Scale. Journal of Complex Networks 13, no. 1: cnae050 <a href='https://academic.oup.com/comnet/article-abstract/13/1/cnae050/7950925'> [html] </a> 
 </li>
-<hr>
+</ol>
+
 <H3> 2024</h3>
 <ol reversed start="100">
 <li>
