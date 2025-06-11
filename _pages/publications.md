@@ -33,23 +33,22 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 
 <H2> To appear, submitted or in preparation</h2>
 <ol reversed start="111>
-<li>
-Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. and Kiss, I.Z., 2025. Inferring contact network characteristics from epidemic data via compact mean-field models. Accepted for publication in Journla of Complex Networks <a href='https://arxiv.org/abs/2502.12040'> [arxiv] </a>
+<li> Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. and Kiss, I.Z., 2025. Inferring contact network characteristics from epidemic data via compact mean-field models. Accepted for publication in Journla of Complex Networks <a href='https://arxiv.org/abs/2502.12040'> [arxiv] </a>
 </li>
-<li>
-Kiss, I.Z., Bick, C. and Simon, P.L., 2024. Decoding how higher-order network interactions shape complex contagion dynamics. Acepted for publiction in Journal of Mathematical Biology <a href='https://arxiv.org/abs/2410.15330'> [arxiv] </a>
+<hr>
+<li> Kiss, I.Z., Bick, C. and Simon, P.L., 2024. Decoding how higher-order network interactions shape complex contagion dynamics. Acepted for publiction in Journal of Mathematical Biology <a href='https://arxiv.org/abs/2410.15330'> [arxiv] </a>
 </li>
-<li>
-Malizia, F., Gallo, L., Frasca, M., Kiss, I.Z., Latora, V. and Russo, G., 2023. A pair-based approximation for simplicial contagion. <a href='https://arxiv.org/abs/2307.10151'> [arxiv] </a> 
+<hr>
+<li> Malizia, F., Gallo, L., Frasca, M., Kiss, I.Z., Latora, V. and Russo, G., 2023. A pair-based approximation for simplicial contagion. <a href='https://arxiv.org/abs/2307.10151'> [arxiv] </a> 
 </li>
-<li>
-Malizia, F., Guzmán, A., Iacopini, I. and Kiss, I.Z., 2025. Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks. <a href='https://arxiv.org/abs/2501.17800'> [arxiv] </a> 
+<hr>
+<li> Malizia, F., Guzmán, A., Iacopini, I. and Kiss, I.Z., 2025. Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks. <a href='https://arxiv.org/abs/2501.17800'> [arxiv] </a> 
 </li>
-<li>
-Li, Y., Alexander, C., Coulon, M. and Kiss, I., 2025. Trade Dynamics of the Global Dry Bulk Shipping Network. <a href='https://arxiv.org/abs/2502.00877'> [arxiv] </a> 
+<hr>
+<li> Li, Y., Alexander, C., Coulon, M. and Kiss, I., 2025. Trade Dynamics of the Global Dry Bulk Shipping Network. <a href='https://arxiv.org/abs/2502.00877'> [arxiv] </a> 
 </li>
-<li>
-Teo, K., Arnold, N., Hone, A., Coulon, M., Ireland, M., Santillana, M. & Kiss, I.Z., (2025) Unveiling individual and collective temporal patterns in the tanker shipping network. <a href='https://arxiv.org/abs/2502.19957'> [arxiv] </a> 
+<hr>
+<li> Teo, K., Arnold, N., Hone, A., Coulon, M., Ireland, M., Santillana, M. & Kiss, I.Z., (2025) Unveiling individual and collective temporal patterns in the tanker shipping network. <a href='https://arxiv.org/abs/2502.19957'> [arxiv] </a> 
 </li>
 </ol>
 
