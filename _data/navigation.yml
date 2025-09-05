@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "SPAN Lab"
+    url: /SPAN_LAB/
+
   - title: "Research"
     url: /research/
     
