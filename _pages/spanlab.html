@@ -89,10 +89,202 @@ author_profile: true
             position: relative;
             display: inline-block;
         }
+
+        /* BASE LOGO STYLES */
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    background: white;
+    padding: 15px 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e9ecef;
+    width: fit-content;
+}
+
+.main-letters {
+    display: flex;
+    align-items: center;
+    gap: -5px;
+}
+
+.letter {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.graph-letter {
+    width: 50px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subtitle-text {
+    font-size: 14px;
+    font-weight: 400;
+    color: #7f8c8d;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin: 0;
+    text-align: center;
+}
+
+/* SIZE VARIATIONS */
+/* Small logo (for sidebars, footers) */
+.logo-small .graph-letter {
+    width: 30px;
+    height: 45px;
+}
+.logo-small .subtitle-text {
+    font-size: 10px;
+    letter-spacing: 1px;
+}
+.logo-small {
+    padding: 10px 15px;
+    gap: 5px;
+}
+
+/* Medium logo (default) */
+.logo-medium .graph-letter {
+    width: 50px;
+    height: 70px;
+}
+.logo-medium .subtitle-text {
+    font-size: 14px;
+}
+
+/* Large logo (for headers, hero sections) */
+.logo-large .graph-letter {
+    width: 80px;
+    height: 110px;
+}
+.logo-large .subtitle-text {
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+.logo-large {
+    padding: 25px 35px;
+    gap: 15px;
+}
+
+/* Extra large logo (for landing pages) */
+.logo-xl .graph-letter {
+    width: 100px;
+    height: 140px;
+}
+.logo-xl .subtitle-text {
+    font-size: 24px;
+    letter-spacing: 4px;
+}
+.logo-xl {
+    padding: 35px 45px;
+    gap: 20px;
+}
+
+/* POSITIONING OPTIONS */
+/* Center on page */
+.logo-center {
+    margin: 20px auto;
+    display: block;
+}
+
+/* Left aligned */
+.logo-left {
+    margin: 20px 0 20px 0;
+    float: left;
+}
+
+/* Right aligned */
+.logo-right {
+    margin: 20px 0 20px auto;
+    float: right;
+}
+
+/* Fixed top-left corner */
+.logo-top-left {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1000;
+}
+
+/* Fixed top-right corner */
+.logo-top-right {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+/* Fixed bottom-right corner */
+.logo-bottom-right {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
+
+/* Header logo (inline with navigation) */
+.logo-header {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 20px 0 0;
+}
+
+/* Floating/overlay logo */
+.logo-float {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 100;
+}
+
+/* Custom positioning with specific coordinates */
+.logo-custom {
+    position: absolute;
+    top: 100px;    /* Change this value */
+    left: 200px;   /* Change this value */
+}
+
+/* RESPONSIVE SIZING */
+@media (max-width: 768px) {
+    .logo-responsive .graph-letter {
+        width: 40px;
+        height: 60px;
+    }
+    .logo-responsive .subtitle-text {
+        font-size: 12px;
+        letter-spacing: 1px;
+    }
+    .logo-responsive {
+        padding: 12px 18px;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo-responsive .graph-letter {
+        width: 35px;
+        height: 50px;
+    }
+    .logo-responsive .subtitle-text {
+        font-size: 10px;
+        letter-spacing: 1px;
+    }
+    .logo-responsive {
+        padding: 10px 15px;
+    }
+}       
     </style>
 <body>
     <div class="logo-wrapper">
-        <div class="logo-container">
+        <div class="logo-container logo-large logo-center">
             <div class="subtitle">
                 <div class="subtitle-text">Systems, Processes</div>
             </div>
