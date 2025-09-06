@@ -281,6 +281,45 @@ author_profile: true
         padding: 10px 15px;
     }
 }       
+
+<style>
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.image-item {
+    flex: 1;
+    max-width: 300px;
+    text-align: center;
+}
+
+.image-item img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.image-caption {
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+@media (max-width: 768px) {
+    .image-container {
+        flex-direction: column;
+    }
+}
+</style>
+
     </style>
 <body>
   
@@ -454,5 +493,21 @@ author_profile: true
         // Auto-animate on load
         setTimeout(animateGraph, 1000);
     </script>
+
+
+<div class="image-container">
+    <div class="image-item">
+        <img src="../images/HexSIRNewV2.png" alt="Description of first image">
+        <div class="image-caption">Your First Caption</div>
+    </div>
+    <div class="image-item">
+        <img src="../images/HexSIRNewV2.png" alt="Description of second image">
+        <div class="image-caption">Your Second Caption</div>
+    </div>
+    <div class="image-item">
+        <img src="../images/HexSIRNewV2.png" alt="Description of third image">
+        <div class="image-caption">Your Third Caption</div>
+    </div>
+</div>
 </body>
 </html>
