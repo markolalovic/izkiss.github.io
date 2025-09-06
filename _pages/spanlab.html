@@ -6,91 +6,7 @@ author_profile: true
 ---
 
 <style>
-        .logo-container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 8px;
-            background: white;
-            padding: 15px 20px;
-            border-radius: 8px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-            border: 1px solid #e9ecef;
-            margin: 20px auto;
-            max-width: 400px;
-            width: fit-content;
-        }
-        
-        .main-letters {
-            display: flex;
-            align-items: center;
-            gap: -5px;
-        }
-        
-        .letter {
-            position: relative;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        
-        .graph-letter {
-            width: 50px;
-            height: 70px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        
-        svg {
-            width: 100%;
-            height: 100%;
-        }
-        
-        .node {
-            fill: #e74c3c;
-            stroke: #2c3e50;
-            stroke-width: 2;
-            cursor: pointer;
-            transition: all 0.3s ease;
-        }
-        
-        .node:hover {
-            fill: #c0392b;
-            r: 7;
-        }
-        
-        .edge {
-            stroke: #2c3e50;
-            stroke-width: 3;
-            opacity: 0.9;
-        }
-        
-        .triangle {
-            fill: rgba(231, 76, 60, 0.3);
-            stroke: none;
-            opacity: 0.9;
-        }
-        
-        .subtitle {
-            text-align: center;
-        }
-        
-        .subtitle-text {
-            font-size: 14px;
-            font-weight: 400;
-            color: #7f8c8d;
-            letter-spacing: 2px;
-            text-transform: uppercase;
-            margin: 0;
-        }
-        
-        .logo-wrapper {
-            position: relative;
-            display: inline-block;
-        }
-
-        /* BASE LOGO STYLES */
+/* Logo Styles */
 .logo-container {
     display: flex;
     flex-direction: column;
@@ -125,6 +41,40 @@ author_profile: true
     justify-content: center;
 }
 
+svg {
+    width: 100%;
+    height: 100%;
+}
+
+.node {
+    fill: #e74c3c;
+    stroke: #2c3e50;
+    stroke-width: 2;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.node:hover {
+    fill: #c0392b;
+    r: 7;
+}
+
+.edge {
+    stroke: #2c3e50;
+    stroke-width: 3;
+    opacity: 0.9;
+}
+
+.triangle {
+    fill: rgba(231, 76, 60, 0.3);
+    stroke: none;
+    opacity: 0.9;
+}
+
+.subtitle {
+    text-align: center;
+}
+
 .subtitle-text {
     font-size: 14px;
     font-weight: 400;
@@ -132,34 +82,9 @@ author_profile: true
     letter-spacing: 2px;
     text-transform: uppercase;
     margin: 0;
-    text-align: center;
 }
 
-/* SIZE VARIATIONS */
-/* Small logo (for sidebars, footers) */
-.logo-small .graph-letter {
-    width: 30px;
-    height: 45px;
-}
-.logo-small .subtitle-text {
-    font-size: 10px;
-    letter-spacing: 1px;
-}
-.logo-small {
-    padding: 10px 15px;
-    gap: 5px;
-}
-
-/* Medium logo (default) */
-.logo-medium .graph-letter {
-    width: 50px;
-    height: 70px;
-}
-.logo-medium .subtitle-text {
-    font-size: 14px;
-}
-
-/* Large logo (for headers, hero sections) */
+/* Large logo version */
 .logo-large .graph-letter {
     width: 80px;
     height: 110px;
@@ -173,116 +98,29 @@ author_profile: true
     gap: 15px;
 }
 
-/* Extra large logo (for landing pages) */
-.logo-xl .graph-letter {
-    width: 100px;
-    height: 140px;
-}
-.logo-xl .subtitle-text {
-    font-size: 24px;
-    letter-spacing: 4px;
-}
-.logo-xl {
-    padding: 35px 45px;
-    gap: 20px;
+/* Content Sections */
+.content-section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+    text-align: center;
 }
 
-/* POSITIONING OPTIONS */
-/* Center on page */
-.logo-center {
-    margin: 20px auto;
-    display: block;
+.section-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 15px;
 }
 
-/* Left aligned */
-.logo-left {
-    margin: 20px 0 20px 0;
-    float: left;
+.section-text {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 30px;
 }
 
-/* Right aligned */
-.logo-right {
-    margin: 20px 0 20px auto;
-    float: right;
-}
-
-/* Fixed top-left corner */
-.logo-top-left {
-    position: fixed;
-    top: 20px;
-    left: 20px;
-    z-index: 1000;
-}
-
-/* Fixed top-right corner */
-.logo-top-right {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    z-index: 1000;
-}
-
-/* Fixed bottom-right corner */
-.logo-bottom-right {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    z-index: 1000;
-}
-
-/* Header logo (inline with navigation) */
-.logo-header {
-    display: inline-block;
-    vertical-align: middle;
-    margin: 0 20px 0 0;
-}
-
-/* Floating/overlay logo */
-.logo-float {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 100;
-}
-
-/* Custom positioning with specific coordinates */
-.logo-custom {
-    position: absolute;
-    top: 100px;    /* Change this value */
-    left: 200px;   /* Change this value */
-}
-
-/* RESPONSIVE SIZING */
-@media (max-width: 768px) {
-    .logo-responsive .graph-letter {
-        width: 40px;
-        height: 60px;
-    }
-    .logo-responsive .subtitle-text {
-        font-size: 12px;
-        letter-spacing: 1px;
-    }
-    .logo-responsive {
-        padding: 12px 18px;
-    }
-}
-
-@media (max-width: 480px) {
-    .logo-responsive .graph-letter {
-        width: 35px;
-        height: 50px;
-    }
-    .logo-responsive .subtitle-text {
-        font-size: 10px;
-        letter-spacing: 1px;
-    }
-    .logo-responsive {
-        padding: 10px 15px;
-    }
-}       
-
-<style>
+/* Image Container */
 .image-container {
     display: flex;
     justify-content: center;
@@ -290,6 +128,8 @@ author_profile: true
     gap: 20px;
     padding: 20px;
     flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 .image-item {
@@ -311,203 +151,215 @@ author_profile: true
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: #333;
+    font-weight: 500;
 }
 
 @media (max-width: 768px) {
     .image-container {
         flex-direction: column;
+        gap: 15px;
+    }
+    .image-item {
+        max-width: 100%;
     }
 }
 </style>
 
-    </style>
-<body>
-  
-<div style="display: flex; justify-content: center; width: 100%;">
+<!-- Logo Section -->
+<div style="display: flex; justify-content: center; width: 100%; margin-bottom: 50px;">
     <div class="logo-container logo-large">
         <div class="subtitle">
             <div class="subtitle-text">Systems, Processes</div>
-            
-            <div class="main-letters">
-                <!-- S with reduced margins -->
-                <div class="letter">
-                    <div class="graph-letter">
-                        <svg id="s-svg" viewBox="10 0 40 80">
-                            <!-- Top: TWO separate simplicial complexes -->
-                            <polygon class="triangle" points="15,12 45,12 15,26"/>
-                            <polygon class="triangle" points="15,26 45,40 15,40"/>
-                            
-                            <!-- Bottom: TWO separate simplicial complexes -->
-                            <polygon class="triangle" points="45,40 45,54 15,40"/>
-                            <polygon class="triangle" points="45,54 45,68 15,68"/>
-                            
-                            <!-- S-shaped edges -->
-                            <line class="edge" x1="15" y1="12" x2="45" y2="12"/>
-                            <line class="edge" x1="15" y1="12" x2="15" y2="26"/>
-                            <line class="edge" x1="15" y1="26" x2="15" y2="40"/>
-                            <line class="edge" x1="15" y1="40" x2="45" y2="40"/>
-                            <line class="edge" x1="45" y1="40" x2="45" y2="54"/>
-                            <line class="edge" x1="45" y1="54" x2="45" y2="68"/>
-                            <line class="edge" x1="45" y1="68" x2="15" y2="68"/>
-                            
-                            <!-- S-shaped vertices -->
-                            <circle class="node" cx="15" cy="12" r="5"/>
-                            <circle class="node" cx="45" cy="12" r="5"/>
-                            <circle class="node" cx="15" cy="26" r="5"/>
-                            <circle class="node" cx="15" cy="40" r="5"/>
-                            <circle class="node" cx="45" cy="40" r="5"/>
-                            <circle class="node" cx="45" cy="54" r="5"/>
-                            <circle class="node" cx="45" cy="68" r="5"/>
-                            <circle class="node" cx="15" cy="68" r="5"/>
-                        </svg>
-                    </div>
-                </div>
-                
-                <!-- P with single hyperedge shading -->
-                <div class="letter">
-                    <div class="graph-letter">
-                        <svg id="p-svg" viewBox="0 0 50 80">
-                            <!-- Single hyperedge over 4+ nodes -->
-                            <polygon class="triangle" points="12,12 30,12 35,20 35,30 30,38 12,38"/>
-                            
-                            <!-- P-shaped edges -->
-                            <line class="edge" x1="12" y1="12" x2="12" y2="68"/>
-                            <line class="edge" x1="12" y1="12" x2="30" y2="12"/>
-                            <line class="edge" x1="30" y1="12" x2="35" y2="20"/>
-                            <line class="edge" x1="35" y1="20" x2="35" y2="30"/>
-                            <line class="edge" x1="35" y1="30" x2="30" y2="38"/>
-                            <line class="edge" x1="30" y1="38" x2="12" y2="38"/>
-                            
-                            <!-- P-shaped vertices -->
-                            <circle class="node" cx="12" cy="12" r="5"/>
-                            <circle class="node" cx="30" cy="12" r="5"/>
-                            <circle class="node" cx="35" cy="20" r="5"/>
-                            <circle class="node" cx="35" cy="30" r="5"/>
-                            <circle class="node" cx="30" cy="38" r="5"/>
-                            <circle class="node" cx="12" cy="38" r="5"/>
-                            <circle class="node" cx="12" cy="68" r="5"/>
-                        </svg>
-                    </div>
-                </div>
-                
-                <!-- A with adjusted left crop to show full letter -->
-                <div class="letter">
-                    <div class="graph-letter">
-                        <svg id="a-svg" viewBox="22 0 26 80">
-                            <!-- Top triangle shading -->
-                            <polygon class="triangle" points="30,12 22,42 38,42"/>
-                            
-                            <!-- A-shaped edges -->
-                            <line class="edge" x1="30" y1="12" x2="22" y2="42"/>
-                            <line class="edge" x1="30" y1="12" x2="38" y2="42"/>
-                            <line class="edge" x1="22" y1="42" x2="12" y2="68"/>
-                            <line class="edge" x1="38" y1="42" x2="48" y2="68"/>
-                            <line class="edge" x1="22" y1="42" x2="38" y2="42"/>
-                            
-                            <!-- A-shaped vertices -->
-                            <circle class="node" cx="30" cy="12" r="5"/>
-                            <circle class="node" cx="22" cy="42" r="5"/>
-                            <circle class="node" cx="38" cy="42" r="5"/>
-                            <circle class="node" cx="12" cy="68" r="5"/>
-                            <circle class="node" cx="48" cy="68" r="5"/>
-                        </svg>
-                    </div>
-                </div>
-                
-                <!-- N with reduced margins -->
-                <div class="letter">
-                    <div class="graph-letter">
-                        <svg id="n-svg" viewBox="8 0 44 80">
-                            <!-- Proper quadrilateral shading (non-intersecting) -->
-                            <polygon class="triangle" points="12,12 30,25 48,68 30,55"/>
-                            
-                            <!-- N-shaped edges (no main diagonal) -->
-                            <line class="edge" x1="12" y1="12" x2="12" y2="68"/>
-                            <line class="edge" x1="48" y1="12" x2="48" y2="68"/>
-                            
-                            <!-- All diagonal connections -->
-                            <line class="edge" x1="30" y1="55" x2="12" y2="12"/>
-                            <line class="edge" x1="30" y1="25" x2="48" y2="68"/>
-                            <line class="edge" x1="30" y1="55" x2="48" y2="68"/>
-                            <line class="edge" x1="30" y1="25" x2="12" y2="12"/>
-                            
-                            <!-- N-shaped vertices -->
-                            <circle class="node" cx="12" cy="12" r="5"/>
-                            <circle class="node" cx="48" cy="12" r="5"/>
-                            <circle class="node" cx="12" cy="68" r="5"/>
-                            <circle class="node" cx="48" cy="68" r="5"/>
-                            <circle class="node" cx="30" cy="25" r="5"/>
-                            <circle class="node" cx="30" cy="55" r="5"/>
-                        </svg>
-                    </div>
+        </div>
+        
+        <div class="main-letters">
+            <!-- S with reduced margins -->
+            <div class="letter">
+                <div class="graph-letter">
+                    <svg id="s-svg" viewBox="10 0 40 80">
+                        <!-- Top: TWO separate simplicial complexes -->
+                        <polygon class="triangle" points="15,12 45,12 15,26"/>
+                        <polygon class="triangle" points="15,26 45,40 15,40"/>
+                        
+                        <!-- Bottom: TWO separate simplicial complexes -->
+                        <polygon class="triangle" points="45,40 45,54 15,40"/>
+                        <polygon class="triangle" points="45,54 45,68 15,68"/>
+                        
+                        <!-- S-shaped edges -->
+                        <line class="edge" x1="15" y1="12" x2="45" y2="12"/>
+                        <line class="edge" x1="15" y1="12" x2="15" y2="26"/>
+                        <line class="edge" x1="15" y1="26" x2="15" y2="40"/>
+                        <line class="edge" x1="15" y1="40" x2="45" y2="40"/>
+                        <line class="edge" x1="45" y1="40" x2="45" y2="54"/>
+                        <line class="edge" x1="45" y1="54" x2="45" y2="68"/>
+                        <line class="edge" x1="45" y1="68" x2="15" y2="68"/>
+                        
+                        <!-- S-shaped vertices -->
+                        <circle class="node" cx="15" cy="12" r="5"/>
+                        <circle class="node" cx="45" cy="12" r="5"/>
+                        <circle class="node" cx="15" cy="26" r="5"/>
+                        <circle class="node" cx="15" cy="40" r="5"/>
+                        <circle class="node" cx="45" cy="40" r="5"/>
+                        <circle class="node" cx="45" cy="54" r="5"/>
+                        <circle class="node" cx="45" cy="68" r="5"/>
+                        <circle class="node" cx="15" cy="68" r="5"/>
+                    </svg>
                 </div>
             </div>
             
-            <div class="subtitle">
-                <div class="subtitle-text">and Networks Lab</div>
+            <!-- P with single hyperedge shading -->
+            <div class="letter">
+                <div class="graph-letter">
+                    <svg id="p-svg" viewBox="0 0 50 80">
+                        <!-- Single hyperedge over 4+ nodes -->
+                        <polygon class="triangle" points="12,12 30,12 35,20 35,30 30,38 12,38"/>
+                        
+                        <!-- P-shaped edges -->
+                        <line class="edge" x1="12" y1="12" x2="12" y2="68"/>
+                        <line class="edge" x1="12" y1="12" x2="30" y2="12"/>
+                        <line class="edge" x1="30" y1="12" x2="35" y2="20"/>
+                        <line class="edge" x1="35" y1="20" x2="35" y2="30"/>
+                        <line class="edge" x1="35" y1="30" x2="30" y2="38"/>
+                        <line class="edge" x1="30" y1="38" x2="12" y2="38"/>
+                        
+                        <!-- P-shaped vertices -->
+                        <circle class="node" cx="12" cy="12" r="5"/>
+                        <circle class="node" cx="30" cy="12" r="5"/>
+                        <circle class="node" cx="35" cy="20" r="5"/>
+                        <circle class="node" cx="35" cy="30" r="5"/>
+                        <circle class="node" cx="30" cy="38" r="5"/>
+                        <circle class="node" cx="12" cy="38" r="5"/>
+                        <circle class="node" cx="12" cy="68" r="5"/>
+                    </svg>
+                </div>
+            </div>
+            
+            <!-- A with adjusted left crop to show full letter -->
+            <div class="letter">
+                <div class="graph-letter">
+                    <svg id="a-svg" viewBox="22 0 26 80">
+                        <!-- Top triangle shading -->
+                        <polygon class="triangle" points="30,12 22,42 38,42"/>
+                        
+                        <!-- A-shaped edges -->
+                        <line class="edge" x1="30" y1="12" x2="22" y2="42"/>
+                        <line class="edge" x1="30" y1="12" x2="38" y2="42"/>
+                        <line class="edge" x1="22" y1="42" x2="12" y2="68"/>
+                        <line class="edge" x1="38" y1="42" x2="48" y2="68"/>
+                        <line class="edge" x1="22" y1="42" x2="38" y2="42"/>
+                        
+                        <!-- A-shaped vertices -->
+                        <circle class="node" cx="30" cy="12" r="5"/>
+                        <circle class="node" cx="22" cy="42" r="5"/>
+                        <circle class="node" cx="38" cy="42" r="5"/>
+                        <circle class="node" cx="12" cy="68" r="5"/>
+                        <circle class="node" cx="48" cy="68" r="5"/>
+                    </svg>
+                </div>
+            </div>
+            
+            <!-- N with reduced margins -->
+            <div class="letter">
+                <div class="graph-letter">
+                    <svg id="n-svg" viewBox="8 0 44 80">
+                        <!-- Proper quadrilateral shading (non-intersecting) -->
+                        <polygon class="triangle" points="12,12 30,25 48,68 30,55"/>
+                        
+                        <!-- N-shaped edges (no main diagonal) -->
+                        <line class="edge" x1="12" y1="12" x2="12" y2="68"/>
+                        <line class="edge" x1="48" y1="12" x2="48" y2="68"/>
+                        
+                        <!-- All diagonal connections -->
+                        <line class="edge" x1="30" y1="55" x2="12" y2="12"/>
+                        <line class="edge" x1="30" y1="25" x2="48" y2="68"/>
+                        <line class="edge" x1="30" y1="55" x2="48" y2="68"/>
+                        <line class="edge" x1="30" y1="25" x2="12" y2="12"/>
+                        
+                        <!-- N-shaped vertices -->
+                        <circle class="node" cx="12" cy="12" r="5"/>
+                        <circle class="node" cx="48" cy="12" r="5"/>
+                        <circle class="node" cx="12" cy="68" r="5"/>
+                        <circle class="node" cx="48" cy="68" r="5"/>
+                        <circle class="node" cx="30" cy="25" r="5"/>
+                        <circle class="node" cx="30" cy="55" r="5"/>
+                    </svg>
+                </div>
             </div>
         </div>
-    </div>
-
-    <script>
-        function animateGraph() {
-            const nodes = document.querySelectorAll('.node');
-            const edges = document.querySelectorAll('.edge');
-            
-            // Animate nodes
-            nodes.forEach((node, index) => {
-                setTimeout(() => {
-                    node.style.transform = 'scale(1.5)';
-                    node.style.fill = '#f39c12';
-                    setTimeout(() => {
-                        node.style.transform = 'scale(1)';
-                        node.style.fill = '#e74c3c';
-                    }, 300);
-                }, index * 50);
-            });
-            
-            // Animate edges
-            edges.forEach((edge, index) => {
-                setTimeout(() => {
-                    edge.style.strokeWidth = '6';
-                    edge.style.stroke = '#f39c12';
-                    setTimeout(() => {
-                        edge.style.strokeWidth = '4';
-                        edge.style.stroke = '#2c3e50';
-                    }, 300);
-                }, index * 30);
-            });
-        }
         
-        // Add interactive hover effects
-        document.querySelectorAll('.node').forEach(node => {
-            node.addEventListener('mouseenter', () => {
-                node.style.transform = 'scale(1.2)';
-            });
-            
-            node.addEventListener('mouseleave', () => {
-                node.style.transform = 'scale(1)';
-            });
-        });
-        
-        // Auto-animate on load
-        setTimeout(animateGraph, 1000);
-    </script>
-
-
-<div class="image-container">
-    <div class="image-item">
-        <img src="../images/HexSIRNewV2.png" alt="Description of first image">
-        <div class="image-caption">Your First Caption</div>
-    </div>
-    <div class="image-item">
-        <img src="../images/HexSIRNewV2.png" alt="Description of second image">
-        <div class="image-caption">Your Second Caption</div>
-    </div>
-    <div class="image-item">
-        <img src="../images/HexSIRNewV2.png" alt="Description of third image">
-        <div class="image-caption">Your Third Caption</div>
+        <div class="subtitle">
+            <div class="subtitle-text">and Networks Lab</div>
+        </div>
     </div>
 </div>
-</body>
-</html>
+
+<!-- Title and Description Section -->
+<div class="content-section">
+    <h1 class="section-title">Welcome to SPAN Lab</h1>
+    <p class="section-text">
+        Our research focuses on Systems, Processes and Networks, exploring the mathematical foundations 
+        and practical applications of complex network theory. We investigate how network structures 
+        influence system behavior and develop innovative approaches to understanding interconnected systems.
+    </p>
+</div>
+
+<!-- Images Section -->
+<div class="image-container">
+    <div class="image-item">
+        <img src="../images/HexSIRNewV2.png" alt="Network modeling research">
+        <div class="image-caption">Network Modeling</div>
+    </div>
+    <div class="image-item">
+        <img src="../images/HexSIRNewV2.png" alt="Complex systems analysis">
+        <div class="image-caption">Complex Systems</div>
+    </div>
+    <div class="image-item">
+        <img src="../images/HexSIRNewV2.png" alt="Mathematical foundations">
+        <div class="image-caption">Mathematical Foundations</div>
+    </div>
+</div>
+
+<script>
+function animateGraph() {
+    const nodes = document.querySelectorAll('.node');
+    const edges = document.querySelectorAll('.edge');
+    
+    // Animate nodes
+    nodes.forEach((node, index) => {
+        setTimeout(() => {
+            node.style.transform = 'scale(1.5)';
+            node.style.fill = '#f39c12';
+            setTimeout(() => {
+                node.style.transform = 'scale(1)';
+                node.style.fill = '#e74c3c';
+            }, 300);
+        }, index * 50);
+    });
+    
+    // Animate edges
+    edges.forEach((edge, index) => {
+        setTimeout(() => {
+            edge.style.strokeWidth = '6';
+            edge.style.stroke = '#f39c12';
+            setTimeout(() => {
+                edge.style.strokeWidth = '4';
+                edge.style.stroke = '#2c3e50';
+            }, 300);
+        }, index * 30);
+    });
+}
+
+// Add interactive hover effects
+document.querySelectorAll('.node').forEach(node => {
+    node.addEventListener('mouseenter', () => {
+        node.style.transform = 'scale(1.2)';
+    });
+    
+    node.addEventListener('mouseleave', () => {
+        node.style.transform = 'scale(1)';
+    });
+});
+
+// Auto-animate on load
+setTimeout(animateGraph, 1000);
+</script>
