@@ -165,142 +165,143 @@ svg {
 }
 </style>
 
-<!-- Logo Section -->
-<div style="display: flex; justify-content: center; width: 100%; margin-bottom: 50px;">
-    <div class="logo-container logo-large">
-        <div class="subtitle">
-            <div class="subtitle-text">Systems, Processes</div>
-        </div>
-        
-        <div class="main-letters">
-            <!-- S with reduced margins -->
-            <div class="letter">
-                <div class="graph-letter">
-                    <svg id="s-svg" viewBox="10 0 40 80">
-                        <!-- Top: TWO separate simplicial complexes -->
-                        <polygon class="triangle" points="15,12 45,12 15,26"/>
-                        <polygon class="triangle" points="15,26 45,40 15,40"/>
-                        
-                        <!-- Bottom: TWO separate simplicial complexes -->
-                        <polygon class="triangle" points="45,40 45,54 15,40"/>
-                        <polygon class="triangle" points="45,54 45,68 15,68"/>
-                        
-                        <!-- S-shaped edges -->
-                        <line class="edge" x1="15" y1="12" x2="45" y2="12"/>
-                        <line class="edge" x1="15" y1="12" x2="15" y2="26"/>
-                        <line class="edge" x1="15" y1="26" x2="15" y2="40"/>
-                        <line class="edge" x1="15" y1="40" x2="45" y2="40"/>
-                        <line class="edge" x1="45" y1="40" x2="45" y2="54"/>
-                        <line class="edge" x1="45" y1="54" x2="45" y2="68"/>
-                        <line class="edge" x1="45" y1="68" x2="15" y2="68"/>
-                        
-                        <!-- S-shaped vertices -->
-                        <circle class="node" cx="15" cy="12" r="5"/>
-                        <circle class="node" cx="45" cy="12" r="5"/>
-                        <circle class="node" cx="15" cy="26" r="5"/>
-                        <circle class="node" cx="15" cy="40" r="5"/>
-                        <circle class="node" cx="45" cy="40" r="5"/>
-                        <circle class="node" cx="45" cy="54" r="5"/>
-                        <circle class="node" cx="45" cy="68" r="5"/>
-                        <circle class="node" cx="15" cy="68" r="5"/>
-                    </svg>
+<!-- Logo and Description Section -->
+<div class="logo-description-container">
+    <!-- Logo on the left -->
+    <div class="logo-section">
+        <div class="logo-container logo-large">
+            <div class="subtitle">
+                <div class="subtitle-text">Systems, Processes</div>
+            </div>
+            
+            <div class="main-letters">
+                <!-- S with reduced margins -->
+                <div class="letter">
+                    <div class="graph-letter">
+                        <svg id="s-svg" viewBox="10 0 40 80">
+                            <!-- Top: TWO separate simplicial complexes -->
+                            <polygon class="triangle" points="15,12 45,12 15,26"/>
+                            <polygon class="triangle" points="15,26 45,40 15,40"/>
+                            
+                            <!-- Bottom: TWO separate simplicial complexes -->
+                            <polygon class="triangle" points="45,40 45,54 15,40"/>
+                            <polygon class="triangle" points="45,54 45,68 15,68"/>
+                            
+                            <!-- S-shaped edges -->
+                            <line class="edge" x1="15" y1="12" x2="45" y2="12"/>
+                            <line class="edge" x1="15" y1="12" x2="15" y2="26"/>
+                            <line class="edge" x1="15" y1="26" x2="15" y2="40"/>
+                            <line class="edge" x1="15" y1="40" x2="45" y2="40"/>
+                            <line class="edge" x1="45" y1="40" x2="45" y2="54"/>
+                            <line class="edge" x1="45" y1="54" x2="45" y2="68"/>
+                            <line class="edge" x1="45" y1="68" x2="15" y2="68"/>
+                            
+                            <!-- S-shaped vertices -->
+                            <circle class="node" cx="15" cy="12" r="5"/>
+                            <circle class="node" cx="45" cy="12" r="5"/>
+                            <circle class="node" cx="15" cy="26" r="5"/>
+                            <circle class="node" cx="15" cy="40" r="5"/>
+                            <circle class="node" cx="45" cy="40" r="5"/>
+                            <circle class="node" cx="45" cy="54" r="5"/>
+                            <circle class="node" cx="45" cy="68" r="5"/>
+                            <circle class="node" cx="15" cy="68" r="5"/>
+                        </svg>
+                    </div>
+                </div>
+                
+                <!-- P with single hyperedge shading -->
+                <div class="letter">
+                    <div class="graph-letter">
+                        <svg id="p-svg" viewBox="0 0 50 80">
+                            <!-- Single hyperedge over 4+ nodes -->
+                            <polygon class="triangle" points="12,12 30,12 35,20 35,30 30,38 12,38"/>
+                            
+                            <!-- P-shaped edges -->
+                            <line class="edge" x1="12" y1="12" x2="12" y2="68"/>
+                            <line class="edge" x1="12" y1="12" x2="30" y2="12"/>
+                            <line class="edge" x1="30" y1="12" x2="35" y2="20"/>
+                            <line class="edge" x1="35" y1="20" x2="35" y2="30"/>
+                            <line class="edge" x1="35" y1="30" x2="30" y2="38"/>
+                            <line class="edge" x1="30" y1="38" x2="12" y2="38"/>
+                            
+                            <!-- P-shaped vertices -->
+                            <circle class="node" cx="12" cy="12" r="5"/>
+                            <circle class="node" cx="30" cy="12" r="5"/>
+                            <circle class="node" cx="35" cy="20" r="5"/>
+                            <circle class="node" cx="35" cy="30" r="5"/>
+                            <circle class="node" cx="30" cy="38" r="5"/>
+                            <circle class="node" cx="12" cy="38" r="5"/>
+                            <circle class="node" cx="12" cy="68" r="5"/>
+                        </svg>
+                    </div>
+                </div>
+                
+                <!-- A with adjusted left crop to show full letter -->
+                <div class="letter">
+                    <div class="graph-letter">
+                        <svg id="a-svg" viewBox="22 0 26 80">
+                            <!-- Top triangle shading -->
+                            <polygon class="triangle" points="30,12 22,42 38,42"/>
+                            
+                            <!-- A-shaped edges -->
+                            <line class="edge" x1="30" y1="12" x2="22" y2="42"/>
+                            <line class="edge" x1="30" y1="12" x2="38" y2="42"/>
+                            <line class="edge" x1="22" y1="42" x2="12" y2="68"/>
+                            <line class="edge" x1="38" y1="42" x2="48" y2="68"/>
+                            <line class="edge" x1="22" y1="42" x2="38" y2="42"/>
+                            
+                            <!-- A-shaped vertices -->
+                            <circle class="node" cx="30" cy="12" r="5"/>
+                            <circle class="node" cx="22" cy="42" r="5"/>
+                            <circle class="node" cx="38" cy="42" r="5"/>
+                            <circle class="node" cx="12" cy="68" r="5"/>
+                            <circle class="node" cx="48" cy="68" r="5"/>
+                        </svg>
+                    </div>
+                </div>
+                
+                <!-- N with reduced margins -->
+                <div class="letter">
+                    <div class="graph-letter">
+                        <svg id="n-svg" viewBox="8 0 44 80">
+                            <!-- Proper quadrilateral shading (non-intersecting) -->
+                            <polygon class="triangle" points="12,12 30,25 48,68 30,55"/>
+                            
+                            <!-- N-shaped edges (no main diagonal) -->
+                            <line class="edge" x1="12" y1="12" x2="12" y2="68"/>
+                            <line class="edge" x1="48" y1="12" x2="48" y2="68"/>
+                            
+                            <!-- All diagonal connections -->
+                            <line class="edge" x1="30" y1="55" x2="12" y2="12"/>
+                            <line class="edge" x1="30" y1="25" x2="48" y2="68"/>
+                            <line class="edge" x1="30" y1="55" x2="48" y2="68"/>
+                            <line class="edge" x1="30" y1="25" x2="12" y2="12"/>
+                            
+                            <!-- N-shaped vertices -->
+                            <circle class="node" cx="12" cy="12" r="5"/>
+                            <circle class="node" cx="48" cy="12" r="5"/>
+                            <circle class="node" cx="12" cy="68" r="5"/>
+                            <circle class="node" cx="48" cy="68" r="5"/>
+                            <circle class="node" cx="30" cy="25" r="5"/>
+                            <circle class="node" cx="30" cy="55" r="5"/>
+                        </svg>
+                    </div>
                 </div>
             </div>
             
-            <!-- P with single hyperedge shading -->
-            <div class="letter">
-                <div class="graph-letter">
-                    <svg id="p-svg" viewBox="0 0 50 80">
-                        <!-- Single hyperedge over 4+ nodes -->
-                        <polygon class="triangle" points="12,12 30,12 35,20 35,30 30,38 12,38"/>
-                        
-                        <!-- P-shaped edges -->
-                        <line class="edge" x1="12" y1="12" x2="12" y2="68"/>
-                        <line class="edge" x1="12" y1="12" x2="30" y2="12"/>
-                        <line class="edge" x1="30" y1="12" x2="35" y2="20"/>
-                        <line class="edge" x1="35" y1="20" x2="35" y2="30"/>
-                        <line class="edge" x1="35" y1="30" x2="30" y2="38"/>
-                        <line class="edge" x1="30" y1="38" x2="12" y2="38"/>
-                        
-                        <!-- P-shaped vertices -->
-                        <circle class="node" cx="12" cy="12" r="5"/>
-                        <circle class="node" cx="30" cy="12" r="5"/>
-                        <circle class="node" cx="35" cy="20" r="5"/>
-                        <circle class="node" cx="35" cy="30" r="5"/>
-                        <circle class="node" cx="30" cy="38" r="5"/>
-                        <circle class="node" cx="12" cy="38" r="5"/>
-                        <circle class="node" cx="12" cy="68" r="5"/>
-                    </svg>
-                </div>
+            <div class="subtitle">
+                <div class="subtitle-text">and Networks Lab</div>
             </div>
-            
-            <!-- A with adjusted left crop to show full letter -->
-            <div class="letter">
-                <div class="graph-letter">
-                    <svg id="a-svg" viewBox="22 0 26 80">
-                        <!-- Top triangle shading -->
-                        <polygon class="triangle" points="30,12 22,42 38,42"/>
-                        
-                        <!-- A-shaped edges -->
-                        <line class="edge" x1="30" y1="12" x2="22" y2="42"/>
-                        <line class="edge" x1="30" y1="12" x2="38" y2="42"/>
-                        <line class="edge" x1="22" y1="42" x2="12" y2="68"/>
-                        <line class="edge" x1="38" y1="42" x2="48" y2="68"/>
-                        <line class="edge" x1="22" y1="42" x2="38" y2="42"/>
-                        
-                        <!-- A-shaped vertices -->
-                        <circle class="node" cx="30" cy="12" r="5"/>
-                        <circle class="node" cx="22" cy="42" r="5"/>
-                        <circle class="node" cx="38" cy="42" r="5"/>
-                        <circle class="node" cx="12" cy="68" r="5"/>
-                        <circle class="node" cx="48" cy="68" r="5"/>
-                    </svg>
-                </div>
-            </div>
-            
-            <!-- N with reduced margins -->
-            <div class="letter">
-                <div class="graph-letter">
-                    <svg id="n-svg" viewBox="8 0 44 80">
-                        <!-- Proper quadrilateral shading (non-intersecting) -->
-                        <polygon class="triangle" points="12,12 30,25 48,68 30,55"/>
-                        
-                        <!-- N-shaped edges (no main diagonal) -->
-                        <line class="edge" x1="12" y1="12" x2="12" y2="68"/>
-                        <line class="edge" x1="48" y1="12" x2="48" y2="68"/>
-                        
-                        <!-- All diagonal connections -->
-                        <line class="edge" x1="30" y1="55" x2="12" y2="12"/>
-                        <line class="edge" x1="30" y1="25" x2="48" y2="68"/>
-                        <line class="edge" x1="30" y1="55" x2="48" y2="68"/>
-                        <line class="edge" x1="30" y1="25" x2="12" y2="12"/>
-                        
-                        <!-- N-shaped vertices -->
-                        <circle class="node" cx="12" cy="12" r="5"/>
-                        <circle class="node" cx="48" cy="12" r="5"/>
-                        <circle class="node" cx="12" cy="68" r="5"/>
-                        <circle class="node" cx="48" cy="68" r="5"/>
-                        <circle class="node" cx="30" cy="25" r="5"/>
-                        <circle class="node" cx="30" cy="55" r="5"/>
-                    </svg>
-                </div>
-            </div>
-        </div>
-        
-        <div class="subtitle">
-            <div class="subtitle-text">and Networks Lab</div>
         </div>
     </div>
-</div>
-
-<!-- Title and Description Section -->
-<div class="content-section">
-    <h1 class="section-title">Welcome to SPAN Lab</h1>
-    <p class="section-text">
-        Our research focuses on Systems, Processes and Networks, exploring the mathematical foundations 
-        and practical applications of complex network theory. We investigate how network structures 
-        influence system behavior and develop innovative approaches to understanding interconnected systems.
-    </p>
+    
+    <!-- Description on the right -->
+    <div class="description-section">
+        <h1 class="description-title">About SPAN Lab</h1>
+        <p class="description-text">
+            The SPAN Lab, led by Dr. Andreia Sofia Teixeira at the Network Science Institute, Northeastern University London, explores how behavior and mental health emerge from the interplay between brain dynamics, individual experience, and social environments. Drawing on network science, complex systems, and computational psychiatry, the lab develops multiscale models to study adaptive behavior across neural and social levels. Current theoretical work focuses on multimodal representations of human behavior and health, and on the dynamic evolution of affective and temporal networks. As society becomes increasingly shaped by AI, the lab also investigates how people engage with AI systems for mental and public health support, examining the risks, benefits, and safeguards of these emerging human–AI ecosystems. We combine expertise across neuroscience, AI, computational social sciences, and public health to address questions that are both methodologically rigorous and socially meaningful.
+        </p>
+    </div>
 </div>
 
 <!-- Images Section -->
