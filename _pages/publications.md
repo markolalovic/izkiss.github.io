@@ -39,7 +39,7 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 <li> Li, Y., Alexander, C., Coulon, M. and Kiss, I., 2025. Trade Dynamics of the Global Dry Bulk Shipping Network. <a href='https://arxiv.org/abs/2502.00877'> [arxiv] </a> 
 </li>
 <hr>
-<li> Teo, K., Arnold, N., Hone, A., Coulon, M., Ireland, M., Santillana, M. & Kiss, I.Z., (2025) Unveiling individual and collective temporal patterns in the tanker shipping network. <a href='https://arxiv.org/abs/2502.19957'> [arxiv] </a> 
+<li> Teo, K., Arnold, N., Hone, A., Coulon, M., Ireland, M., Santillana, M. & Kiss, I.Z., 2025. Unveiling individual and collective temporal patterns in the tanker shipping network. <a href='https://arxiv.org/abs/2502.19957'> [arxiv] </a> 
 </li>
 </ol>
 
@@ -71,7 +71,7 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 <H2>Peer-reviewed research papers (graph theory, network science, stochastic processes, dynamical systems, mathematical epidemiology) </h2>
 <H3> 2025</h3>
 <ol reversed start="104">
-<li> Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. and Kiss, I.Z., 2025. Inferring contact network characteristics from epidemic data via compact mean-field models. Journal of Mathematical Biology, 13 (4), cnaf018. <a href='https://academic.oup.com/comnet/article/13/4/cnaf018/8202884'> [html] </a>
+<li> Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. and Kiss, I.Z., 2025. Inferring contact network characteristics from epidemic data via compact mean-field models. Journal of Mathematical Biology, 13(4), cnaf018. <a href='https://academic.oup.com/comnet/article/13/4/cnaf018/8202884'> [html] </a>
 </li>
 <hr>
 <li> Kiss, I. Z., Bick, C., & Simon, P. L. (2025). Decoding how higher-order network interactions shape contagion dynamics. Journal of Mathematical Biology, 91(3), 1-27. <a href='https://link.springer.com/article/10.1007/s00285-025-02247-4'> [html] </a>
@@ -81,7 +81,7 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 </li>
 <hr>
 <li>
-Teo, K., Arnold, N., Hone, A., & Kiss, I. Z. (2025). Performance of Higher-Order Networks in Reconstructing Sequential Paths: from Micro to Macro Scale. Journal of Complex Networks 13, no. 1: cnae050. <a href='https://academic.oup.com/comnet/article-abstract/13/1/cnae050/7950925'> [html] </a> 
+Teo, K., Arnold, N., Hone, A., & Kiss, I. Z. (2025). Performance of Higher-Order Networks in Reconstructing Sequential Paths: from Micro to Macro Scale. Journal of Complex Networks 13(1) cnae050. <a href='https://academic.oup.com/comnet/article-abstract/13/1/cnae050/7950925'> [html] </a> 
 </li>
 </ol>
 
