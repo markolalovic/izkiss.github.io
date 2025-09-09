@@ -33,15 +33,6 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 
 <H2> To appear, submitted or in preparation</h2>
 <ol reversed start="111">
-<li> Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. and Kiss, I.Z., 2025. Inferring contact network characteristics from epidemic data via compact mean-field models. Accepted for publication in Journla of Complex Networks <a href='https://arxiv.org/abs/2502.12040'> [arxiv] </a>
-</li>
-<hr>
-<li> Kiss, I.Z., Bick, C. and Simon, P.L., 2024. Decoding how higher-order network interactions shape complex contagion dynamics. Acepted for publiction in Journal of Mathematical Biology <a href='https://arxiv.org/abs/2410.15330'> [arxiv] </a>
-</li>
-<hr>
-<li> Malizia, F., Gallo, L., Frasca, M., Kiss, I.Z., Latora, V. and Russo, G., 2023. A pair-based approximation for simplicial contagion. <a href='https://arxiv.org/abs/2307.10151'> [arxiv] </a> 
-</li>
-<hr>
 <li> Malizia, F., Guzmán, A., Iacopini, I. and Kiss, I.Z., 2025. Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks. <a href='https://arxiv.org/abs/2501.17800'> [arxiv] </a> 
 </li>
 <hr>
@@ -79,9 +70,18 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 
 <H2>Peer-reviewed research papers (graph theory, network science, stochastic processes, dynamical systems, mathematical epidemiology) </h2>
 <H3> 2025</h3>
-<ol reversed start="101">
+<ol reversed start="104">
+<li> Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. and Kiss, I.Z., 2025. Inferring contact network characteristics from epidemic data via compact mean-field models. Journal of Mathematical Biology, 13 (4), cnaf018. <a href='https://academic.oup.com/comnet/article/13/4/cnaf018/8202884'> [html] </a>
+</li>
+<hr>
+<li> Kiss, I. Z., Bick, C., & Simon, P. L. (2025). Decoding how higher-order network interactions shape contagion dynamics. Journal of Mathematical Biology, 91(3), 1-27. <a href='https://link.springer.com/article/10.1007/s00285-025-02247-4'> [html] </a>
+</li>
+<hr>
+<li> Malizia, F., Gallo, L., Frasca, M., Kiss, I. Z., Latora, V., & Russo, G. (2025). A pair-based approximation for simplicial contagion. Chaos, Solitons & Fractals, 199, 116776. <a href='https://www.sciencedirect.com/science/article/pii/S0960077925007891'> [arxiv] </a> 
+</li>
+<hr>
 <li>
-Teo, K., Arnold, N., Hone, A., & Kiss, I. Z. (2025). Performance of Higher-Order Networks in Reconstructing Sequential Paths: from Micro to Macro Scale. Journal of Complex Networks 13, no. 1: cnae050 <a href='https://academic.oup.com/comnet/article-abstract/13/1/cnae050/7950925'> [html] </a> 
+Teo, K., Arnold, N., Hone, A., & Kiss, I. Z. (2025). Performance of Higher-Order Networks in Reconstructing Sequential Paths: from Micro to Macro Scale. Journal of Complex Networks 13, no. 1: cnae050. <a href='https://academic.oup.com/comnet/article-abstract/13/1/cnae050/7950925'> [html] </a> 
 </li>
 </ol>
 
