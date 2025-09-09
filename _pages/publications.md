@@ -45,7 +45,7 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 
 <H2> In press & published </h2>
 <H3>Book Chapters</h3>
-<ol reversed start="105">
+<ol reversed start="108">
 <li> "Mapping out emerging network structures in dynamic network
 models coupled with epidemics" (with L. Berthouze, J.C. Miller & P.L. Simon) Forthcoming in Temporal Network Epidemiology (2017), Springer, Edited by 
 Petter Holme and Naoki Masuda. <a href='../files/Dynamic_netw_chapter.pdf'> [pdf] </a>
@@ -77,7 +77,7 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 <li> Kiss, I. Z., Bick, C., & Simon, P. L. (2025). Decoding how higher-order network interactions shape contagion dynamics. Journal of Mathematical Biology, 91(3), 1-27. <a href='https://link.springer.com/article/10.1007/s00285-025-02247-4'> [html] </a>
 </li>
 <hr>
-<li> Malizia, F., Gallo, L., Frasca, M., Kiss, I. Z., Latora, V., & Russo, G. (2025). A pair-based approximation for simplicial contagion. Chaos, Solitons & Fractals, 199, 116776. <a href='https://www.sciencedirect.com/science/article/pii/S0960077925007891'> [arxiv] </a> 
+<li> Malizia, F., Gallo, L., Frasca, M., Kiss, I. Z., Latora, V., & Russo, G. (2025). A pair-based approximation for simplicial contagion. Chaos, Solitons & Fractals, 199, 116776. <a href='https://www.sciencedirect.com/science/article/pii/S0960077925007891'> [html] </a> 
 </li>
 <hr>
 <li>
